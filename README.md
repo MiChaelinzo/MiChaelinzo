@@ -14,11 +14,11 @@
 ###  I'm 21 years old a Software/System Engineer, IT/Cyber Security Engineer, Intrapreneur, and Pentetration testing enthusiast.
 
 ### Connect with me:
-[<img align="center" alt="beacons.ai/michaelinzo" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] <br  />
-[<img align="center" alt="MiChaelinzo| YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] <br  />
-[<img align="center" alt="MiChaelinzo | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] <br  />
-[<img align="center" alt="MiChaelinzo| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] <br  />
-[<img align="center" alt="MiChaelinzo | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] <br  />
+[<img align="center" alt="beacons.ai/michaelinzo" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] 
+[<img align="center" alt="MiChaelinzo| YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] 
+[<img align="center" alt="MiChaelinzo | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] 
+[<img align="center" alt="MiChaelinzo| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] 
+[<img align="center" alt="MiChaelinzo | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] 
 </div>
 
 <br />
