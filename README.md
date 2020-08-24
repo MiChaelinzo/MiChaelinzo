@@ -1,7 +1,7 @@
 <div align="center">
 
 # 山乇ㄥ匚ㄖ爪乇 乇ᐯ乇尺ㄚㄖ几乇 
-[![Website](https://img.shields.io/website?label=beacon.ai/michaelinzo=https%3A%2F%2Fhttps://beacons.ai/michaelinzo)](https://beacons.ai/michaelinzo)
+[![Website](https://img.shields.io/website?label=beacon.ai/michaelinzo&style=for-the-badge&url=https%3A%2F%2Fhttps://beacons.ai/michaelinzo)](https://beacons.ai/michaelinzo)
 [![Twitter Follow](https://img.shields.io/twitter/follow/llmichaelinzoll?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FMiChaelinzo&screen_name=MiChaelinzo)
 
 <div align="center">
@@ -12,7 +12,7 @@
 
 ## About ME 💬 :
 
-###  I'm 21 years old a Software/System Engineer, IT/Cyber Security Engineer, Intrapreneur, and Pentetration testing enthusiast.
+###  The sites up, I'm 21 years old a Software/System Engineer, IT/Cyber Security Engineer, Intrapreneur, and Pentetration testing enthusiast.
 
 ### Connect with me:
 [<img align="center" alt="beacons.ai/michaelinzo" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] 
