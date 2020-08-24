@@ -7,23 +7,24 @@
 <img hight="800" width="1600" alt="GIF" align="center" src="https://github.com/MiChaelinzo/MiChaelinzo/blob/master/source.gif">
 </div>
 
+<div align="center">
+
 ## About ME 💬 :
 
 ###  I'm 21 years old a Software/System Engineer, IT/Cyber Security Engineer, Intrapreneur, and Pentetration testing enthusiast.
 
 ### Connect with me:
-[<img align="center" alt="beacons.ai/michaelinzo" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] <br>
-[<img align="center" alt="MiChaelinzo| YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] <br>
-[<img align="center" alt="MiChaelinzo | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] <br>
-[<img align="center" alt="MiChaelinzo| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] <br>
-[<img align="center" alt="MiChaelinzo | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] <br>
+[<img align="center" alt="beacons.ai/michaelinzo" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] <br  />
+[<img align="center" alt="MiChaelinzo| YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] <br  />
+[<img align="center" alt="MiChaelinzo | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] <br  />
+[<img align="center" alt="MiChaelinzo| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] <br  />
+[<img align="center" alt="MiChaelinzo | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] <br  />
 </div>
 
 <br />
 <br />
 <br />
 
-<div align="center">
 [![MiChaelinzo GitHub Stats](https://github-readme-stats.vercel.app/api?username=MiChaelinzo&show_icons=true&&them=&hide_title=false)](https://github.com/MiChaelinzo)
 </div>
 
