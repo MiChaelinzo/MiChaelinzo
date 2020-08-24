@@ -12,7 +12,8 @@
 
 ## About ME 💬 :
 
-###  The sites up, I'm 21 years old a Software/System Engineer, IT/Cyber Security Engineer, Intrapreneur, and Pentetration testing enthusiast.
+###  The sites up
+###  I'm 21 years old a Software/System Engineer, IT/Cyber Security Engineer, Intrapreneur, and Pentetration testing enthusiast.
 
 ### Connect with me:
 [<img align="center" alt="beacons.ai/michaelinzo" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] 
