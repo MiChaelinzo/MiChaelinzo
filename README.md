@@ -12,7 +12,6 @@
 
 ## About ME 💬 :
 
-###  The sites up
 ###  I'm 21 years old a Software/System Engineer, IT/Cyber Security Engineer, Intrapreneur, and Pentetration testing enthusiast.
 
 ### Connect with me:
