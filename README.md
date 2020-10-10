@@ -27,10 +27,12 @@
 <br />
 
 [![MiChaelinzo GitHub Stats](https://github-readme-stats.vercel.app/api?username=MiChaelinzo&show_icons=true&&them=&hide_title=false&theme=radical")](https://github.com/MiChaelinzo)
+
+<br />
 𝗔𝗪𝗔𝗥𝗗𝗦
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&row=2&column=3)
-
+<br />
 𝗧𝗘𝗖𝗛𝗡𝗢𝗟𝗢𝗚𝗜𝗘𝗦
 
 ![ZSH](https://img.shields.io/badge/-ZSH-black?style=flat-square&logo=ZSH)
@@ -42,8 +44,8 @@
 ![JAVA](https://img.shields.io/badge/-JAVA-black?style=flat-square&logo=JAVA)
 ![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-black?style=flat-square&logo=JAVASCRIPT)
 ![XML](https://img.shields.io/badge/-XML-black?style=flat-square&logo=XML)
-![HTML](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=HTML)
-![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=CSS)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=HTML5)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=CSS3)
 ![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=SQL)
 ![SQLite](https://img.shields.io/badge/-SQLite-black?style=flat-square&logo=SQLite)
 ![RUBY](https://img.shields.io/badge/-RUBY-black?style=flat-square&logo=RUBY)
@@ -53,9 +55,6 @@
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiChaelinzo&layout=compact" />
 
-𝗩𝗜𝗦𝗜𝗧𝗢𝗥𝗦
-
-![VISITOR BADGE](https://visitor-badge.laobi.icu/badge?page_id=MiChaelinzo)
 
 </div>
 
