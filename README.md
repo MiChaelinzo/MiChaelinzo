@@ -23,17 +23,13 @@
 </div>
 
 <br />
-
-[![MiChaelinzo GitHub Stats](https://github-readme-stats.vercel.app/api?username=MiChaelinzo&show_icons=true&&them=&hide_title=false&theme=radical")](https://github.com/MiChaelinzo)
-
+[![MiChaelinzo GitHub Stats](https://github-readme-stats.vercel.app/api?username=MiChaelinzo&show_icons=true&&them=&hide_title=false&theme=black")](https://github.com/MiChaelinzo)
 <br />
-
 𝗔𝗪𝗔𝗥𝗗𝗦
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&row=2&column=3)
 
 <br />
-
 𝗧𝗘𝗖𝗛𝗡𝗢𝗟𝗢𝗚𝗜𝗘𝗦
 
 ![ZSH](https://img.shields.io/badge/-ZSH-black?style=flat-square&logo=ZSH)
@@ -54,7 +50,7 @@
 ![GIT](https://img.shields.io/badge/-GIT-black?style=flat-square&logo=GIT)
 ![GITHUB](https://img.shields.io/badge/-GITHUB-181717?style=flat-square&logo=GITHUB)
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiChaelinzo&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiChaelinzo&layout=compact&theme=radical" />
 
 
 </div>
