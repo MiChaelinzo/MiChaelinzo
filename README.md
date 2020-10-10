@@ -26,7 +26,36 @@
 <br />
 <br />
 
-[![MiChaelinzo GitHub Stats](https://github-readme-stats.vercel.app/api?username=MiChaelinzo&show_icons=true&&them=&hide_title=false)](https://github.com/MiChaelinzo)
+[![MiChaelinzo GitHub Stats](https://github-readme-stats.vercel.app/api?username=MiChaelinzo&show_icons=true&&them=&hide_title=false&theme=radical")](https://github.com/MiChaelinzo)
+𝗔𝗪𝗔𝗥𝗗𝗦
+
+![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&row=2&column=3)
+
+𝗧𝗘𝗖𝗛𝗡𝗢𝗟𝗢𝗚𝗜𝗘𝗦
+
+![ZSH](https://img.shields.io/badge/-ZSH-black?style=flat-square&logo=ZSH)
+![BASH](https://img.shields.io/badge/-BASH-black?style=flat-square&logo=BASH)
+![SHELL](https://img.shields.io/badge/-SHELL-black?style=flat-square&logo=SHELL)
+![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=C)
+![C#](https://img.shields.io/badge/-C#-black?style=flat-square&logo=C#)
+![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=C++)
+![JAVA](https://img.shields.io/badge/-JAVA-black?style=flat-square&logo=JAVA)
+![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-black?style=flat-square&logo=JAVASCRIPT)
+![XML](https://img.shields.io/badge/-XML-black?style=flat-square&logo=XML)
+![HTML](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=HTML)
+![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=CSS)
+![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=SQL)
+![SQLite](https://img.shields.io/badge/-SQLite-black?style=flat-square&logo=SQLite)
+![RUBY](https://img.shields.io/badge/-RUBY-black?style=flat-square&logo=RUBY)
+![PYTHON](https://img.shields.io/badge/-PYTHON-black?style=flat-square&logo=PYTHON)
+![GIT](https://img.shields.io/badge/-GIT-black?style=flat-square&logo=GIT)
+![GITHUB](https://img.shields.io/badge/-GITHUB-181717?style=flat-square&logo=GITHUB)
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiChaelinzo&layout=compact" />
+
+𝗩𝗜𝗦𝗜𝗧𝗢𝗥𝗦
+
+![VISITOR BADGE](https://visitor-badge.laobi.icu/badge?page_id=MiChaelinzo)
 </div>
 
 [website]: https://beacons.ai/michaelinzo
