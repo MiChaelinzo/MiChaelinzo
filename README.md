@@ -24,12 +24,12 @@
 
 <br />
 
-[![MiChaelinzo GitHub Stats](https://github-readme-stats.vercel.app/api?username=MiChaelinzo&show_icons=true&&them=&hide_title=false&theme=black")](https://github.com/MiChaelinzo)
+[![MiChaelinzo GitHub Stats](https://github-readme-stats.vercel.app/api?username=MiChaelinzo&show_icons=true&&them=&hide_title=false&theme=radical")](https://github.com/MiChaelinzo)
 
 <br />
 𝗔𝗪𝗔𝗥𝗗𝗦
 
-![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&row=2&column=3&theme=black)
+![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&row=2&column=3&theme=radical)
 
 <br />
 𝗧𝗘𝗖𝗛𝗡𝗢𝗟𝗢𝗚𝗜𝗘𝗦
