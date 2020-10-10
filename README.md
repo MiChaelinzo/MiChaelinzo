@@ -23,8 +23,7 @@
 </div>
 
 <br />
-<br />
-<br />
+
 
 [![MiChaelinzo GitHub Stats](https://github-readme-stats.vercel.app/api?username=MiChaelinzo&show_icons=true&&them=&hide_title=false&theme=radical")](https://github.com/MiChaelinzo)
 
