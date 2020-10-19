@@ -12,7 +12,7 @@
 
 ## About ME 💬 :
 
-###  I'm 21 years old a Software & System Engineer, Cyber & Offensive & IT Security Engineer, Intrapreneur, and Pentetration testing enthusiast.
+###  I'm 21 years old a Software & System Engineer, Cyber & Offensive & IT Security Engineer, Intrapreneur, and Pentetration testing enthusiast. All of my repo here are just for hobby, fun, and pastime. 
 
 ### Connect with me:
 [<img align="center" alt="beacons.ai/michaelinzo" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] 
