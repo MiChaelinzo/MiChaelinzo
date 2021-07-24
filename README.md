@@ -56,7 +56,7 @@
 
 </div>
 
-[website]: https://beacons.ai/michaelin
+[website]: https://beacons.ai/michaelinzo
 [twitter]: https://twitter.com/llmichaelinzoll
 [youtube]: https://www.youtube.com/channel/UCdl0wrFZEO0YkSpQ8QZEQmw?sub_confirmation=1
 [instagram]: https://instagram.com/fxmachinima
