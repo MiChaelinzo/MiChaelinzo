@@ -12,7 +12,7 @@
 
 ## About ME 💬 :
 
-###  I'm a Professional Software/Hardware/System Engineer, Cyber & Offensive & IT Security enthusiast, Intrapreneur, and Pentetration testing enthusiast, and Hardcore Video gamer. I also love exercising !
+###  I'm a Professional Software/Hardware/System Engineer, Cyber & Offensive & IT Security enthusiast, Intrapreneur, and Pentetration testing enthusiast, and Hardcore Video gamer!
 ### Connect with me:
 [<img align="center" alt="beacons.ai/michaelinzo" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] 
 [<img align="center" alt="MiChaelinzo| YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] 
