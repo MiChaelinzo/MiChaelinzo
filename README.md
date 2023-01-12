@@ -24,7 +24,7 @@
 
 <br />
 
-![MiChaelinzo GitHub Stats](https://github-readme-stats-git-Michaelinzo.vercel.app/api?username=MiChaelinzo&show_icons=true&&them=&hide_title=false&&theme=radical")](https://github.com/MiChaelinzo)
+![Michaelinzo GitHub stats](https://github-readme-stats-git-Michaelinzo.vercel.app/api?username=Michaelinzo&show_icons=true&theme=dracula&count_private=true&include_all_commits=true)
 
 <br />
 𝗔𝗪𝗔𝗥𝗗𝗦
