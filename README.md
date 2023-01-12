@@ -24,7 +24,7 @@
 
 <br />
 
-[![MiChaelinzo GitHub Stats](https://github-readme-stats-git-michaelinzo.vercel.app/api?username=MiChaelinzo&show_icons=true&&them=&hide_title=false&&theme=radical")](https://github.com/MiChaelinzo)
+[![MiChaelinzo GitHub Stats](https://github-readme-stats-git-Michaelinzo.vercel.app/api?username=MiChaelinzo&show_icons=true&&them=&hide_title=false&&theme=radical")](https://github.com/MiChaelinzo)
 
 <br />
 𝗔𝗪𝗔𝗥𝗗𝗦
@@ -52,7 +52,7 @@
 ![GIT](https://img.shields.io/badge/-GIT-black?style=flat-square&logo=GIT)
 ![GITHUB](https://img.shields.io/badge/-GITHUB-181717?style=flat-square&logo=GITHUB)
 
-  <img src="https://github-readme-stats-git-michaelinzo.vercel.app/api/top-langs/?username=MiChaelinzo&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats-git-Michaelinzo.vercel.app/api/top-langs/?username=MiChaelinzo&layout=compact&theme=radical" />
 
 
 </div>
