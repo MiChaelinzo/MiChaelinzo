@@ -25,7 +25,8 @@
 <br />
 
 [![MiChaelinzo GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MiChaelinzo&show_icons=true&&them=&hide_title=false&&theme=radical")](https://github.com/MiChaelinzo)
-[<img src="https://streak-stats.demolab.com?user=michaelinzo&theme=radical" height="200" alt="streaks graph" />]
+  <img src="https://github-readme-stats-masterrstaa-rickstaa.vercel.app/api?username=Michaelinzo&theme=radical&show_icons=true&count_private=true&include_all_commits=true" height="180" alt="stats graph" />
+<img src="https://streak-stats.demolab.com?user=michaelinzo&theme=radical" height="180" alt="streaks graph" />
 
 <br />
 𝗔𝗪𝗔𝗥𝗗𝗦
