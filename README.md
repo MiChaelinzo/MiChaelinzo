@@ -55,6 +55,8 @@
 ![GITHUB](https://img.shields.io/badge/-GITHUB-181717?style=flat-square&logo=GITHUB)
 
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MiChaelinzo&layout=compact&theme=radical" />
+  ![Michaelinzo's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=michaelinzo&custom_title=MiChaelinzo's%20GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true)
+
 
 
 </div>
