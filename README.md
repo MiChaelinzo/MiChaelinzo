@@ -1,4 +1,4 @@
-
+<div align="center">
   
 # "山乇ㄥ匚ㄖ爪乇 _ 乇ᐯ乇尺ㄚㄖ几乇"
 [![Website](https://img.shields.io/website?style=for-the-badge&url=https%3A%2F%2Fbeacons.ai%2Fcyberworld)
