@@ -4,7 +4,7 @@
 [[![Website](https://img.shields.io/website?style=for-the-badge&url=https%3A%2F%2Fbeacons.ai%2Fcyberworld)
 ](https://img.shields.io/website?down_color=Lightgrey&down_message=Offline&style=for-the-badge&up_color=Blue&up_message=Online&url=https%3A%2F%2Fbeacons.ai%2Fcyberworld)](https://img.shields.io/&up_color=blue&up_message=online&url=https%3A%2F%2Fbeacons.ai%2Fcyberworld)
 [[![Twitter Follow](https://img.shields.io/twitter/follow/llmichaelinzoll?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fllmichaelinzoll&screen_name=llmichaelinzoll)
-](https://img.shields.io/twitter/follow/llmichaelinzoll?style=for-the-badge)
+]
   
 <div align="center">
 <img hight="800" width="1600" alt="GIF" align="center" src="https://github.com/MiChaelinzo/MiChaelinzo/blob/master/source.gif">
