@@ -13,7 +13,7 @@
 
 ## About ME 💬 :
 
-### I'm a Professional Software/Hardware/System Engineer, Cyber-Security Offensive Eng. & IT Security enthusiast, Intrapreneur, and Pentetration-testing enthusiast, CyberTech & Agent Code Red @TBW, I also do Intelligence/OSINT & Investigations for FBI/RFJ/StateGov and also I'm a Ultra-Hardcore Video gamer!
+### I'm a Professional Software/Hardware/System Engineer, Cyber-Security Offensive Eng. & IT Security enthusiast, Intrapreneur, and Pentetration-testing enthusiast, CyberTech & Agent Code-Red @TBW, and also I'm a Ultra-Hardcore Video gamer!
 ### Connect with me:
 [<img align="center" alt="beacons.ai/michaelinzo" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" style="color: blue;" />][website]
 [<img align="center" alt="MiChaelinzo| YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" style="color: blue;" />][youtube]
