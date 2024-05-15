@@ -3,7 +3,6 @@
 # "山乇ㄥ匚ㄖ爪乇 _ 乇ᐯ乇尺ㄚㄖ几乇"
 [![Website](https://img.shields.io/website?style=for-the-badge&url=https%3A%2F%2Fcyber.zc.al)](https://img.shields.io/&up_color=blue&up_message=online&url=https%3A%2F%2Fcyber.zc.al)
 [![Twitter Follow](https://img.shields.io/badge/follow-%40michaelinzotech-1DA1F2?logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmichaelinzotech&screen_name=michaelinzotech)
-![profile views](https://komarev.com/ghpvc/?username=MiChaelinzo&style=for-the-badge)
   
 <div align="center">
 <img hight="800" width="1600" alt="GIF" align="center" src="https://github.com/MiChaelinzo/MiChaelinzo/blob/master/source.gif">
