@@ -3,7 +3,7 @@
 # "山乇ㄥ匚ㄖ爪乇 _ 乇ᐯ乇尺ㄚㄖ几乇"
 [![Website](https://img.shields.io/website?style=for-the-badge&url=https%3A%2F%2Fcyber.zc.al)](https://img.shields.io/&up_color=blue&up_message=online&url=https%3A%2F%2Fcyber.zc.al)
 [![Twitter Follow](https://img.shields.io/badge/follow-%40michaelinzotech-1DA1F2?logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmichaelinzotech&screen_name=michaelinzotech)
-
+![profile views](https://komarev.com/ghpvc/?username=MiChaelinzo&style=for-the-badge)
   
 <div align="center">
 <img hight="800" width="1600" alt="GIF" align="center" src="https://github.com/MiChaelinzo/MiChaelinzo/blob/master/source.gif">
@@ -16,16 +16,16 @@
 ### I'm a Professional Software/Hardware/System Engineer, Cyber-Security Offensive Eng. & IT Security enthusiast, Intrapreneur, and Penetration-testing enthusiast, CyberTech & Agent Code-Red @TBW, and also I'm a Ultra-Hardcore Video gamer!
 ### Connect with me:
 [<img align="center" alt="beacons.ai/michaelinzo" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" style="color: blue;" />][website]
-[<img align="center" alt="MiChaelinzo| YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" style="color: lightblue;" />][youtube]
-[<img align="center" alt="MiChaelinzo | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" style="color: lightblue;" />][twitter] 
-[<img align="center" alt="MiChaelinzo| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="color: lightblue;" />][linkedin] 
-[<img align="center" alt="MiChaelinzo | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" style="color: lightblue;"/>][instagram] 
+[<img align="center" alt="MiChaelinzo| YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" style="color: yellow;" />][youtube]
+[<img align="center" alt="MiChaelinzo | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" style="color: yellow;" />][twitter] 
+[<img align="center" alt="MiChaelinzo| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="color: yellow;" />][linkedin] 
+[<img align="center" alt="MiChaelinzo | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" style="color: yellow;"/>][instagram] 
 </div>
 
 <br />
-
-[![MiChaelinzo GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MiChaelinzo&&show_icons=true&&them=&hide_title=false&&theme=radical")](https://github.com/MiChaelinzo)
-  
+(https://github.com/alieldeba/github-profile-trophy)![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MiChaelinzo&theme=monokai
+[![MiChaelinzo GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MiChaelinzo&&show_icons=true&&them=&hide_title=false&&theme=radical")](https://github.com/MiChaelinzo) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MiChaelinzo&theme=yellow	)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MiChaelinzo&theme=yellow	)
 <img src="https://streak-stats.demolab.com?user=michaelinzo&theme=white" height="180" alt="streaks graph" />
 
 <br />
