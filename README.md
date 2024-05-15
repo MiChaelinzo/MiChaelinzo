@@ -24,7 +24,9 @@
 
 <br />
 ![MiChaelinzo GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MiChaelinzo&show_icons=true&hide_title=false&theme=radical)
+
 ![Repos Per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MiChaelinzo&theme=radical)
+
 ![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MiChaelinzo&theme=radical)
 
 <img src="https://streak-stats.demolab.com?user=michaelinzo&theme=white" height="180" alt="streaks graph" />
