@@ -55,8 +55,8 @@
 ![Repos Per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MiChaelinzo&theme=radical) ![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MiChaelinzo&theme=radical)
 </div>
 
-[website]: https://beacons.ai/michaelinzo
-[twitter]: https://twitter.com/michaelinzo_tech_cybernetics
+[website]: https://beacons.ai/cyberworld
+[twitter]: https://twitter.com/michaelinzotech
 [youtube]: https://www.youtube.com/@michaelinzo
 [instagram]: https://instagram.com/michaelinzo_tech_cybernetics
-[linkedin]: https://www.linkedin.com/in/Michaelinzo
+[linkedin]: https://www.linkedin.com/in/michaelinzo
