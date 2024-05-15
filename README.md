@@ -15,11 +15,11 @@
 
 ### I'm a Professional Software/Hardware/System Engineer, Cyber-Security Offensive Eng. & IT Security enthusiast, Intrapreneur, and Penetration-testing enthusiast, CyberTech, and also I'm a Ultra-Hardcore Video gamer!
 ### Connect with me:
-[<img align="center" alt="beacons.ai/michaelinzo" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" style="color: blue;" />][website]
-[<img align="center" alt="MiChaelinzo| YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" style="color: yellow;" />][youtube]
-[<img align="center" alt="MiChaelinzo | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" style="color: yellow;" />][twitter] 
-[<img align="center" alt="MiChaelinzo| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="color: yellow;" />][linkedin] 
-[<img align="center" alt="MiChaelinzo | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" style="color: yellow;"/>][instagram] 
+[<img align="center" alt="beacons.ai/michaelinzo" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" style="color: yellow;" />][website]
+[<img align="center" alt="MiChaelinzo| YouTube" width="42px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" style="color: yellow;" />][youtube]
+[<img align="center" alt="MiChaelinzo | Twitter" width="42px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" style="color: yellow;" />][twitter] 
+[<img align="center" alt="MiChaelinzo| LinkedIn" width="42px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="color: yellow;" />][linkedin] 
+[<img align="center" alt="MiChaelinzo | Instagram" width="42px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" style="color: yellow;"/>][instagram] 
 </div>
 
 <br />
