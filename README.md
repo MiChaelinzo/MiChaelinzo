@@ -57,7 +57,7 @@
 </div>
 
 [website]: https://beacons.ai/michaelinzo
-[twitter]: https://twitter.com/llmichaelinzoll
-[youtube]: https://www.youtube.com/channel/UCdl0wrFZEO0YkSpQ8QZEQmw?sub_confirmation=1
-[instagram]: https://instagram.com/fxmachinima
-[linkedin]: https://www.linkedin.com/in/michael-inso-90626619a/
+[twitter]: https://twitter.com/michaelinzo_tech_cybernetics
+[youtube]: https://www.youtube.com/@michaelinzo
+[instagram]: https://instagram.com/michaelinzo_tech_cybernetics
+[linkedin]: https://www.linkedin.com/in/Michaelinzo
