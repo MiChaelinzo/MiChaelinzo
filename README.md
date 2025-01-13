@@ -27,6 +27,7 @@
 <img height="190" width="49%" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=MiChaelinzo&theme=neon"/>
 <a href="https://leetcode.com/michaelinzo" target="_blank" rel="noreferrer"><img height="190" width="49%" align="center" src="https://leetcard.jacoblin.cool/michaelinzo?theme=dark&font=monospace&ext=contest"/></a>
 <br />
+
 𝗔𝗪𝗔𝗥𝗗𝗦
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=michaelinzo&row=2&column=3&&theme=neon)
