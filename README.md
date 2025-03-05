@@ -23,9 +23,9 @@
 
 <br />
 
-Private_Profile`![MiChaelinzo GitHub Stats](https://github-readme-stats.vercel.app/api?username=MiChaelinzo&&show_icons=true&&theme=neon)
+![MiChaelinzo GitHub Stats](https://github-readme-stats.vercel.app/api?username=MiChaelinzo&&show_icons=true&&theme=neon)
 <img height="190" width="49%" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=MiChaelinzo&theme=neon"/>
-`<a href="https://leetcode.com/michaelinzo" target="_blank" rel="noreferrer"><img height="190" width="49%" align="center"  src="https://leetcard.jacoblin.cool/michaelinzo?theme=dark&font=monospace&ext=contest"/></a>
+<a href="https://leetcode.com/michaelinzo" target="_blank" rel="noreferrer"><img height="190" width="49%" align="center"  src="https://leetcard.jacoblin.cool/michaelinzo?theme=dark&font=monospace&ext=contest"/></a>
 <br />
 
 𝗔𝗪𝗔𝗥𝗗𝗦
