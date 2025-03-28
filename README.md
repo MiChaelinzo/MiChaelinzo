@@ -30,11 +30,12 @@
 <a href="https://leetcode.com/michaelinzo" target="_blank" rel="noreferrer">
     <img height="190" width="49%" align="center" src="https://leetcard.jacoblin.cool/michaelinzo?theme=dark&font=monospace&ext=contest&bg=000000&text=ff073a&icon=ff073a"/>
 </a>
+
 <br />
 
 𝗔𝗪𝗔𝗥𝗗𝗦
 
-![trophy](https://github-profile-trophy.vercel.app/?username=MiChaelinzo&row=2&column=3&theme=algolia)
+![trophy](https://github-profile-trophy.vercel.app/?username=MiChaelinzo&row=2&column=3&theme=onedark&no-bg=true&no-frame=true&title_color=ff073a&text_color=ff073a&icon_color=ff073a)
 
 <br />
 𝗧𝗘𝗖𝗛𝗡𝗢𝗟𝗢𝗚𝗜𝗘𝗦
