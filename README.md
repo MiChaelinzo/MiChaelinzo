@@ -3,8 +3,7 @@
 # "山乇ㄥ匚ㄖ爪乇 _ 乇ᐯ乇尺ㄚㄖ几乇"
 [![Website](https://img.shields.io/website?style=for-the-badge&url=https%3A%2F%2Fcyberworld.tv)](https://img.shields.io/&up_color=blue&up_message=online&url=https%3A%2F%2Fcyberworld.tv)
 [![Twitter Follow](https://img.shields.io/badge/follow-%40michaelinzotech-1DA1F2?logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmichaelinzotech&screen_name=michaelinzotech)
-</div>
-
+  
 <div align="center">
 <img hight="800" width="1600" alt="GIF" align="center" src="https://github.com/MiChaelinzo/MiChaelinzo/blob/master/source.gif">
 </div>
@@ -24,16 +23,16 @@
 
 <br />
 
-![MiChaelinzo GitHub Stats](https://github-readme-stats.vercel.app/api?username=MiChaelinzo&&show_icons=true&&theme=transparent)
+![MiChaelinzo GitHub Stats](https://github-readme-stats.vercel.app/api?username=MiChaelinzo&&show_icons=true&&theme=neon)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiChaelinzo&layout=compact&theme=transparent"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiChaelinzo&layout=compact&theme=neon"/>
 
 <a href="https://leetcode.com/michaelinzo" target="_blank" rel="noreferrer"><img height="190" width="49%" align="center"  src="https://leetcard.jacoblin.cool/michaelinzo?theme=dark&font=monospace&ext=contest"/></a>
 <br />
 
 𝗔𝗪𝗔𝗥𝗗𝗦
 
-![trophy](https://github-profile-trophy.vercel.app/?username=MiChaelinzo&row=2&column=3&theme=transparent)
+![trophy](https://github-profile-trophy.vercel.app/?username=MiChaelinzo&row=2&column=3&theme=neon)
 
 <br />
 𝗧𝗘𝗖𝗛𝗡𝗢𝗟𝗢𝗚𝗜𝗘𝗦
