@@ -6,12 +6,6 @@
 </div>
 
 <div align="center">
-    <a href="https://user-badge.committers.top/qatar/MiChaelinzo">
-		<img src="https://user-badge.committers.top/qatar/MiChaelinzo.svg">
-	</a>
-</div>
-
-<div align="center">
 <img hight="800" width="1600" alt="GIF" align="center" src="https://github.com/MiChaelinzo/MiChaelinzo/blob/master/source.gif">
 </div>
 
