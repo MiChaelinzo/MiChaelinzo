@@ -28,13 +28,13 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiChaelinzo&layout=compact&title_color=ff073a&text_color=ff073a&bg_color=000000&icon_color=ff073a"/>
 
 <a href="https://leetcode.com/michaelinzo" target="_blank" rel="noreferrer">
-    <img height="190" width="49%" align="center" src="https://leetcard.jacoblin.cool/michaelinzo?theme=custom&font=monospace&ext=contest&bg=000000&text=ff073a&icon=ff073a"/>
+    <img height="190" width="49%" align="center" src="https://leetcard.jacoblin.cool/michaelinzo?theme=dark&font=monospace&ext=contest&bg=000000&text=ff073a&icon=ff073a"/>
 </a>
 <br />
 
 𝗔𝗪𝗔𝗥𝗗𝗦
 
-![trophy](https://github-profile-trophy.vercel.app/?username=MiChaelinzo&row=2&column=3&theme=custom&title_color=ff073a&text_color=ff073a&icon_color=ff073a&bg_color=000000)
+![trophy](https://github-profile-trophy.vercel.app/?username=MiChaelinzo&row=2&column=3&theme=algolia)
 
 <br />
 𝗧𝗘𝗖𝗛𝗡𝗢𝗟𝗢𝗚𝗜𝗘𝗦
@@ -57,8 +57,9 @@
 ![GIT](https://img.shields.io/badge/-GIT-black?style=flat-square&logo=GIT)
 ![GITHUB](https://img.shields.io/badge/-GITHUB-181717?style=flat-square&logo=GITHUB)
 
-![Repos Per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MiChaelinzo&theme=custom&title_color=ff073a&text_color=ff073a&icon_color=ff073a&bg_color=000000)
-![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MiChaelinzo&theme=custom&title_color=ff073a&text_color=ff073a&icon_color=ff073a&bg_color=000000)
+![Repos Per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MiChaelinzo&theme=transparent)
+![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MiChaelinzo&theme=transparent)
+
 </div>
 
 [website]: https://beacons.ai/cyberworld
