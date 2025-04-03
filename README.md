@@ -25,7 +25,7 @@
 
 ![MiChaelinzo GitHub Stats](https://github-readme-stats.vercel.app/api?username=MiChaelinzo&show_icons=true&title_color=ff073a&text_color=ff073a&icon_color=ff073a&bg_color=000000)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=MiChaelinzo&short_numbers=true)](https://git.io/streak-stats)
+![MiChaelinzo GitHub Streak](https://streak-stats.demolab.com?user=MiChaelinzo&theme=neon&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&sideNums=FF0000&sideLabels=FF0000&dates=FF0000&short_numbers=true)](https://git.io/streak-stats)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiChaelinzo&layout=compact&title_color=ff073a&text_color=ff073a&bg_color=000000&icon_color=ff073a"/>
 
