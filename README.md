@@ -1,7 +1,7 @@
 <div align="center">
   
 # "山乇ㄥ匚ㄖ爪乇 _ 乇ᐯ乇尺ㄚㄖ几乇"
-[![Website](https://img.shields.io/website?style=for-the-badge&url=https%3A%2F%2Fcyberworld.tv&color=ff073a)](https://img.shields.io/&up_color=ff073a&up_message=online&url=https%3A%2F%2Fcyberworld.tv)
+[![Website](https://img.shields.io/website?style=for-the-badge&url=https%3A%2F%2Fbeacons.ai/cyberworld&color=ff073a)](https://img.shields.io/&up_color=ff073a&up_message=online&url=https%3A%2F%2Fbeacons.ai/cyberworld)
 [![Twitter Follow](https://img.shields.io/badge/follow-%40michaelinzotech-ff073a?logo=twitter&style=for-the-badge&logoColor=ff073a)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmichaelinzotech&screen_name=michaelinzotech)
 
 <div align="center">
