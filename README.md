@@ -26,7 +26,7 @@
 ![MiChaelinzo GitHub Stats](https://github-readme-stats.vercel.app/api?username=MiChaelinzo&show_icons=true&title_color=ff073a&text_color=ff073a&icon_color=ff073a&bg_color=000000)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=MiChaelinzo&theme=neon&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&sideNums=FF0000&sideLabels=FF0000&dates=FF0000&short_numbers=true)](https://git.io/streak-stats)
-
+<div style="display:flex;gap:12px;align-items:center"> <img src="https://streak-stats.demolab.com?user=MiChaelinzo&theme=neon&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&sideNums=FF0000&sideLabels=FF0000&dates=FF0000&short_numbers=true" alt="GitHub Streak"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MiChaelinzo&layout=compact&theme=radical&custom_title=Time%20Stats" alt="WakaTime Time Stats"> </div>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiChaelinzo&layout=compact&title_color=ff073a&text_color=ff073a&bg_color=000000&icon_color=ff073a"/>
 
 <a href="https://leetcode.com/michaelinzo" target="_blank" rel="noreferrer">
@@ -83,5 +83,6 @@
 	    <img alt="MiChaelinzo's Top Languages WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=MiChaelinzo&theme=transparent&title_color=ff073a&color=ff073a&text_color=ff073a&hide_border=true&text_bold=true&layout=compact" /><br>
 	</div>
 </details>
+
 
 
