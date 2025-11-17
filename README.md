@@ -99,23 +99,21 @@
   <img height="20px" src="https://visitcount.itsvg.in/api?id=MiChaelinzo&label=Profile%20Views&color=ff073a&icon=5&pretty=true" />
 </div>
 
-<details align="left">
-  <summary> 📊 More Statistics (click here)</summary> <br>
+<div align="left">
+  <h3> 📊 More Statistics </h3>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=MiChaelinzo&show_icons=true&theme=radical&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiChaelinzo&layout=compact&langs_count=20&theme=radical" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api?username=MiChaelinzo&show_icons=true&theme=synthwave&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&title_color=ff073a&text_color=ff073a&icon_color=ff073a&bg_color=000000&hide_border=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiChaelinzo&layout=compact&langs_count=20&theme=synthwave&title_color=ff073a&text_color=ff073a&bg_color=000000&hide_border=true" alt="Top Languages" />
   </p>
   <p align="center"> 
-    <a href="https://github.com/MiChaelinzo"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=MiChaelinzo&layout=compact&theme=radical" alt="Time Stats"/></a>
+    <a href="https://github.com/MiChaelinzo"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=MiChaelinzo&layout=compact&theme=synthwave&title_color=ff073a&text_color=ff073a&bg_color=000000&hide_border=true" alt="Time Stats"/></a>
   </p>
   <p align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MiChaelinzo&theme=radical"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MiChaelinzo&theme=synthwave"/>
   </p>
   <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=MiChaelinzo&radius=16&theme=radical&area=true&order=5" alt="activity-graph graph"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=MiChaelinzo&radius=16&theme=react-dark&area=true&order=5&bg_color=000000&color=ff073a&line=ff073a&point=ff073a&hide_border=true" alt="activity-graph graph"/>
   </p>
-</details>
+</div>
 
-<div align="right">Made with 🦾 by <a href="https://github.com/MiChaelinzo">@MiChaelinzo</a>.</div>
-
-
+<div align="right">Made 🦾 by <a href="https://github.com/MiChaelinzo">@MiChaelinzo</a>.</div>
