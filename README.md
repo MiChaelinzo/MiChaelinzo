@@ -26,7 +26,7 @@
 ![MiChaelinzo GitHub Stats](https://github-readme-stats.vercel.app/api?username=MiChaelinzo&show_icons=true&title_color=ff073a&text_color=ff073a&icon_color=ff073a&bg_color=000000)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=MiChaelinzo&theme=neon&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&sideNums=FF0000&sideLabels=FF0000&dates=FF0000&short_numbers=true)](https://git.io/streak-stats)
-<div style="display:flex;gap:12px;align-items:center"> <img src="https://streak-stats.demolab.com?user=MiChaelinzo&theme=neon&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&sideNums=FF0000&sideLabels=FF0000&dates=FF0000&short_numbers=true" alt="GitHub Streak"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MiChaelinzo&layout=compact&theme=radical&custom_title=Time%20Stats" alt="WakaTime Time Stats"> </div>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiChaelinzo&layout=compact&title_color=ff073a&text_color=ff073a&bg_color=000000&icon_color=ff073a"/>
 
 <a href="https://leetcode.com/michaelinzo" target="_blank" rel="noreferrer">
@@ -34,6 +34,8 @@
 </a>
 
 <br />
+
+<div style="display:flex;gap:12px;align-items:center"> <img src="https://streak-stats.demolab.com?user=MiChaelinzo&theme=neon&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&sideNums=FF0000&sideLabels=FF0000&dates=FF0000&short_numbers=true" alt="GitHub Streak"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MiChaelinzo&layout=compact&theme=radical&custom_title=Time%20Stats" alt="WakaTime Time Stats"> </div>
 
 𝗔𝗪𝗔𝗥𝗗𝗦
 
@@ -60,15 +62,47 @@
 ![GIT](https://img.shields.io/badge/-GIT-black?style=flat-square&logo=GIT)
 ![GITHUB](https://img.shields.io/badge/-GITHUB-181717?style=flat-square&logo=GITHUB)
 
-<!-- Red background cards for GitHub profile summary images -->
-<div style="background:#b71c1c;padding:12px;border-radius:10px;display:inline-block">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MiChaelinzo&theme=transparent" alt="Repos Per Language" style="display:block">
-</div>
-<div style="background:#b71c1c;padding:12px;border-radius:10px;display:inline-block;margin-left:12px">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MiChaelinzo&theme=transparent" alt="Most Commit Language" style="display:block">
-</div>
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="240" viewBox="0 0 980 240" role="img" aria-label="Neon red GitHub cards">
+  <defs>
+    <!-- neon glow filter -->
+    <filter id="neonGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="12" result="blur"/>
+      <feFlood flood-color="#ff1744" flood-opacity="0.55" result="flood"/>
+      <feComposite in="flood" in2="blur" operator="in" result="glow"/>
+      <feMerge>
+        <feMergeNode in="glow"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
 
-</div>
+    <linearGradient id="bgGrad" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0" stop-color="#3b0000"/>
+      <stop offset="1" stop-color="#1a0000"/>
+    </linearGradient>
+  </defs>
+
+  <!-- background -->
+  <rect width="100%" height="100%" fill="url(#bgGrad)"/>
+
+  <!-- soft neon halo behind cards -->
+  <g filter="url(#neonGlow)">
+    <rect x="10" y="10" width="460" height="220" rx="14" fill="#ff1744" fill-opacity="0.06"/>
+    <rect x="510" y="10" width="460" height="220" rx="14" fill="#ff1744" fill-opacity="0.06"/>
+  </g>
+
+  <!-- cards (transparent images from the service) -->
+  <image x="20" y="20" width="440" height="200"
+         href="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MiChaelinzo&theme=transparent"
+         preserveAspectRatio="xMidYMid meet" />
+
+  <image x="520" y="20" width="440" height="200"
+         href="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MiChaelinzo&theme=transparent"
+         preserveAspectRatio="xMidYMid meet" />
+
+  <!-- subtle neon outline -->
+  <rect x="14" y="14" width="452" height="208" rx="10" fill="none" stroke="#ff1744" stroke-opacity="0.06"/>
+  <rect x="514" y="14" width="452" height="208" rx="10" fill="none" stroke="#ff1744" stroke-opacity="0.06"/>
+</svg>
 
 [website]: https://beacons.ai/cyberworld
 [twitter]: https://twitter.com/michaelinzotech
@@ -83,6 +117,7 @@
 	    <img alt="MiChaelinzo's Top Languages WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=MiChaelinzo&theme=transparent&title_color=ff073a&color=ff073a&text_color=ff073a&hide_border=true&text_bold=true&layout=compact" /><br>
 	</div>
 </details>
+
 
 
 
