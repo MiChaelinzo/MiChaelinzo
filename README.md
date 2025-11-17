@@ -60,8 +60,14 @@
 ![GIT](https://img.shields.io/badge/-GIT-black?style=flat-square&logo=GIT)
 ![GITHUB](https://img.shields.io/badge/-GITHUB-181717?style=flat-square&logo=GITHUB)
 
-![Repos Per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MiChaelinzo&theme=transparent)
-![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MiChaelinzo&theme=transparent)
+<!-- Red background cards for GitHub profile summary images -->
+<div style="background:#b71c1c;padding:12px;border-radius:10px;display:inline-block">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MiChaelinzo&theme=transparent" alt="Repos Per Language" style="display:block">
+</div>
+
+<div style="background:#b71c1c;padding:12px;border-radius:10px;display:inline-block;margin-left:12px">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MiChaelinzo&theme=transparent" alt="Most Commit Language" style="display:block">
+</div>
 
 </div>
 
@@ -78,3 +84,4 @@
 	    <img alt="MiChaelinzo's Top Languages WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=MiChaelinzo&theme=transparent&title_color=ff073a&color=ff073a&text_color=ff073a&hide_border=true&text_bold=true&layout=compact" /><br>
 	</div>
 </details>
+
