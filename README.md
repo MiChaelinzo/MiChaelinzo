@@ -116,11 +116,6 @@
   </p>
 </details>
 
-<details align="left">
-  <summary> 🗓️ Daily Streaks (click here) 🔥 </summary> <br>
-  <p align="center">
-    <img src="https://streak-stats.demolab.com?user=MiChaelinzo&theme=dark&ring=ff073a&fire=ff073a&currStreakLabel=ff073a&sideNums=ff073a&sideLabels=ff073a&dates=ff073a&hide_border=true"/>
-  </p>
-</details>
 <div align="right">Made with 🦾 by <a href="https://github.com/MiChaelinzo">@MiChaelinzo</a>.</div>
+
 
