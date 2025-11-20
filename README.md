@@ -111,9 +111,7 @@
   <p align="center">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MiChaelinzo&theme=synthwave"/>
   </p>
-  <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=MiChaelinzo&radius=16&theme=react-dark&area=true&order=5&bg_color=000000&color=ff073a&line=ff073a&point=ff073a&hide_border=true" alt="activity-graph graph"/>
-  </p>
 </div>
 
 <div align="right">Made 🦾 by <a href="https://github.com/MiChaelinzo">@MiChaelinzo</a>.</div>
+
