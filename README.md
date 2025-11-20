@@ -109,9 +109,10 @@
     <a href="https://github.com/MiChaelinzo"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=MiChaelinzo&layout=compact&theme=synthwave&title_color=ff073a&text_color=ff073a&bg_color=000000&hide_border=true" alt="Time Stats"/></a>
   </p>
   <p align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MiChaelinzo&theme=synthwave"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MiChaelinzo&theme=dracula"/>
   </p>
 </div>
 
 <div align="right">Made 🦾 by <a href="https://github.com/MiChaelinzo">@MiChaelinzo</a>.</div>
+
 
