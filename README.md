@@ -44,6 +44,9 @@
 
 ---
 
+### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MiChaelinzo&show_icons=true&theme=tokyonight)
+
 ### <p align="center">`G I T H U B _ S T A T S`</p>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MiChaelinzo&show_icons=true&theme=radical&title_color=ff073a&text_color=ff073a&icon_color=ff073a&bg_color=000000&hide_border=true" alt="MiChaelinzo's GitHub Stats"/>
@@ -55,6 +58,10 @@
     <img height="190" width="49%" align="center" src="https://leetcard.jacoblin.cool/michaelinzo?theme=dark&font=monospace&ext=contest&bg=000000&text=ff073a&icon=ff073a&border=ff073a"/>
   </a>
 </div>
+
+### 🧠 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiChaelinzo&layout=compact&theme=tokyonight&hide=html,css)
+
 
 ---
 
@@ -125,6 +132,10 @@
   <img height="20px" src="https://visitcount.itsvg.in/api?id=MiChaelinzo&label=Profile%20Views&color=ff073a&icon=5&pretty=true" />
 </div>
 
+### ⏱️ WakaTime Stats
+<!-- Important: use your WakaTime username (may differ from GitHub). Stats must be public in WakaTime. -->
+![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&layout=compact&theme=tokyonight)
+
 <div align="left">
   <h3> 📊 More Statistics </h3>
   <p align="center">
@@ -140,6 +151,7 @@
 </div>
 
 <div align="right">Made 🦾 by <a href="https://github.com/MiChaelinzo">@MiChaelinzo</a>.</div>
+
 
 
 
