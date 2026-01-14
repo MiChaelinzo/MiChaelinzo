@@ -13,7 +13,7 @@
 
 ---
 
-### <p align="center">`A B O U T _ M E`</p>
+### <p align="center">`A B O U T _ M E 🕴🏻`</p>
 
 <p align="center">
   <em>
@@ -23,7 +23,7 @@
 
 ---
 
-### <p align="center">`C O N N E C T _ W I T H _ M E`</p>
+### <p align="center">`C O N N E C T _ W I T H _ M E 🔗`</p>
 <p align="center">
   <a href="https://beacons.ai/cyberworld" target="_blank">
     <img src="https://img.shields.io/badge/-CyberWorld-ff073a?style=for-the-badge&logo=home-assistant&logoColor=white" alt="Website"/>
@@ -46,7 +46,9 @@
 
 ### 📊 GitHub Stats
 
-### <p align="center">`G I T H U B _ S T A T S`</p>
+![Metrics](https://metrics.lecoq.io/michaelinzo?template=terminal&isocalendar=1&languages=1&lines=1&stars=1&habits=1&followup=1&people=1&repositories=1&discussions=1&achievements=1&notable=1&activity=1&code=1&gists=1&projects=1&introduction=1&pagespeed=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar=false&isocalendar.duration=full-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&lines.delay=0&stars=false&stars.limit=4&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&followup=false&followup.sections=repositories&followup.indepth=false&followup.archived=true&people=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&repositories=false&repositories.pinned=0&repositories.starred=0&repositories.random=0&repositories.order=featured%2C%20pinned%2C%20starred%2C%20random&discussions=false&discussions.categories=true&discussions.categories.limit=0&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable=false&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&notable.self=false&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&code=false&code.lines=12&code.load=400&code.days=3&code.visibility=public&gists=false&projects=false&projects.limit=4&projects.descriptions=false&introduction=false&introduction.title=true&pagespeed=false&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false&pagespeed.pwa=false&config.timezone=Asia%2FRiyadh)
+
+### <p align="center">`G I T H U B _ S T A T S 📊`</p>
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MiChaelinzo&show_icons=true&theme=radical&title_color=ff073a&text_color=ff073a&icon_color=ff073a&bg_color=000000&hide_border=true" alt="MiChaelinzo's GitHub Stats"/>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MiChaelinzo&layout=compact&theme=radical&title_color=ff073a&text_color=ff073a&bg_color=000000&hide_border=true&icon_color=ff073a" alt="Top Languages"/>
@@ -62,7 +64,9 @@
 
 ### ⌚ Daily Streak
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MiChaelinzo&theme=tokyo-night)
+
 ![GitHub Snake](https://github.com/MiChaelinzo/MiChaelinzo/blob/output/github-contribution-grid-snake.svg)
+
 ![Metrics](https://metrics.lecoq.io/MiChaelinzo?template=classic&base=header%2Cactivity%2Ccommunity%2Crepositories&base.indepth=false&base.hireable=false&config.timezone=Asia%2FQatar)
 
 ### 🧠 Top Languages
@@ -157,6 +161,7 @@
 </div>
 
 <div align="right">Made 🦾 by <a href="https://github.com/MiChaelinzo">@MiChaelinzo</a>.</div>
+
 
 
 
