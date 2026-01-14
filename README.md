@@ -76,9 +76,9 @@
 ---
 
 ### <p align="center">`A W A R D S 🏆`</p>
-<div align="center">
-  <img src="https://github-profile-trophy-sigma-five.vercel.app/?username=MiChaelinzo&theme=onedark&no-frame=true&no-bg=true&row=2&column=3&margin-w=15&margin-h=15&title_color=ff073a&text_color=ff073a&icon_color=ff073a" alt="GitHub Trophies"/>
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MiChaelinzo&theme=onedark&no-frame=true&no-bg=true&row=2&column=3&margin-w=15&margin-h=15&title_color=ff073a&text_color=ff073a&icon_color=ff073a" alt="GitHub Trophies"/>
+</p>
 
 ---
 
@@ -161,6 +161,7 @@
 </div>
 
 <div align="right">Made 🦾 by <a href="https://github.com/MiChaelinzo">@MiChaelinzo</a>.</div>
+
 
 
 
