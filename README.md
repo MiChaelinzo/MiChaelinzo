@@ -44,14 +44,14 @@
 
 ---
 
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=MiChaelinzo&show_icons=true&theme=tokyonight)
+### 📊 GitHub Stats (Archived)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MiChaelinzo&show_icons=true&theme=tokyonight&cache_seconds=7200)
 
 ### <p align="center">`G I T H U B _ S T A T S`</p>
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MiChaelinzo&show_icons=true&theme=radical&title_color=ff073a&text_color=ff073a&icon_color=ff073a&bg_color=000000&hide_border=true" alt="MiChaelinzo's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MiChaelinzo&show_icons=true&theme=radical&title_color=ff073a&text_color=ff073a&icon_color=ff073a&bg_color=000000&hide_border=true&cache_seconds=7200" alt="MiChaelinzo's GitHub Stats"/>
   <img src="https://streak-stats.demolab.com?user=MiChaelinzo&theme=dark&ring=ff073a&fire=ff073a&currStreakLabel=ff073a&sideNums=ff073a&sideLabels=ff073a&dates=ff073a&hide_border=true" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MiChaelinzo&layout=compact&theme=radical&title_color=ff073a&text_color=ff073a&bg_color=000000&hide_border=true&icon_color=ff073a" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiChaelinzo&layout=compact&theme=radical&title_color=ff073a&text_color=ff073a&bg_color=000000&hide_border=true&icon_color=ff073a&cache_seconds=7200" alt="Top Languages"/>
 </div>
 <details>
   <summary><h4>LeetCode (Archived)</h4></summary>
@@ -63,7 +63,7 @@
 </details>
 
 ### 🧠 Top Languages
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MiChaelinzo&layout=compact&theme=tokyonight&hide=html,css)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiChaelinzo&layout=compact&theme=tokyonight&hide=html,css&cache_seconds=7200)
 
 
 ---
@@ -127,7 +127,7 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph/?username=MiChaelinzo&bg_color=000000&color=ff073a&line=ff073a&point=ff073a&area=true&hide_border=true&title=Contribution+Graph" alt="Contribution Graph"/>
   <br>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/wakatime?username=MiChaelinzo&theme=radical&bg_color=000000&title_color=ff073a&text_color=ff073a&hide_border=true&layout=compact" alt="WakaTime Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MiChaelinzo&theme=radical&bg_color=000000&title_color=ff073a&text_color=ff073a&hide_border=true&layout=compact&cache_seconds=7200" alt="WakaTime Stats"/>
 </div>
 </details>
 
@@ -137,16 +137,16 @@
 
 ### ⏱️ WakaTime Stats
 <!-- Important: use your WakaTime username (may differ from GitHub). Stats must be public in WakaTime. -->
-![WakaTime](https://github-readme-stats-sigma-five.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&layout=compact&theme=tokyonight)
+![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=MiChaelinzo&layout=compact&theme=tokyonight&cache_seconds=7200)
 
 <div align="left">
   <h3> 📊 More Statistics </h3>
   <p align="center">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MiChaelinzo&show_icons=true&theme=synthwave&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&title_color=ff073a&text_color=ff073a&icon_color=ff073a&bg_color=000000&hide_border=true"/>
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MiChaelinzo&layout=compact&langs_count=20&theme=synthwave&title_color=ff073a&text_color=ff073a&bg_color=000000&hide_border=true" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api?username=MiChaelinzo&show_icons=true&theme=synthwave&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&title_color=ff073a&text_color=ff073a&icon_color=ff073a&bg_color=000000&hide_border=true&cache_seconds=7200"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiChaelinzo&layout=compact&langs_count=20&theme=synthwave&title_color=ff073a&text_color=ff073a&bg_color=000000&hide_border=true&cache_seconds=7200" alt="Top Languages" />
   </p>
   <p align="center"> 
-    <a href="https://github.com/MiChaelinzo"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/wakatime?username=MiChaelinzo&layout=compact&theme=synthwave&title_color=ff073a&text_color=ff073a&bg_color=000000&hide_border=true" alt="Time Stats"/></a>
+    <a href="https://github.com/MiChaelinzo"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=MiChaelinzo&layout=compact&theme=synthwave&title_color=ff073a&text_color=ff073a&bg_color=000000&hide_border=true&cache_seconds=7200" alt="Time Stats"/></a>
   </p>
   <p align="center">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MiChaelinzo&theme=dracula"/>
