@@ -44,16 +44,14 @@
 
 ---
 
-### 📊 GitHub Stats (Archived)
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MiChaelinzo&show_icons=true&theme=tokyonight&cache_seconds=7200)
+### 📊 GitHub Stats
 
 ### <p align="center">`G I T H U B _ S T A T S`</p>
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MiChaelinzo&show_icons=true&theme=radical&title_color=ff073a&text_color=ff073a&icon_color=ff073a&bg_color=000000&hide_border=true&cache_seconds=7200" alt="MiChaelinzo's GitHub Stats"/>
-  <img src="https://streak-stats.demolab.com?user=MiChaelinzo&theme=dark&ring=ff073a&fire=ff073a&currStreakLabel=ff073a&sideNums=ff073a&sideLabels=ff073a&dates=ff073a&hide_border=true" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MiChaelinzo&layout=compact&theme=radical&title_color=ff073a&text_color=ff073a&bg_color=000000&hide_border=true&icon_color=ff073a&cache_seconds=7200" alt="Top Languages"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MiChaelinzo&show_icons=true&theme=radical&title_color=ff073a&text_color=ff073a&icon_color=ff073a&bg_color=000000&hide_border=true" alt="MiChaelinzo's GitHub Stats"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MiChaelinzo&layout=compact&theme=radical&title_color=ff073a&text_color=ff073a&bg_color=000000&hide_border=true&icon_color=ff073a" alt="Top Languages"/>
 </div>
-<details>
+<details> 
   <summary><h4>LeetCode (Archived)</h4></summary>
   <div align="center">
     <a href="https://leetcode.com/michaelinzo" target="_blank" rel="noreferrer">
@@ -62,20 +60,23 @@
   </div>
 </details>
 
+### ⌚ Daily Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=MiChaelinzo&theme=dark&ring=ff073a&fire=ff073a&currStreakLabel=ff073a&sideNums=ff073a&sideLabels=ff073a&dates=ff073a&hide_border=true)
+
 ### 🧠 Top Languages
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MiChaelinzo&layout=compact&theme=tokyonight&hide=html,css&cache_seconds=7200)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MiChaelinzo&layout=compact&theme=tokyonight&hide=html,css)
 
 
 ---
 
-### <p align="center">`A W A R D S`</p>
+### <p align="center">`A W A R D S 🏆`</p>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MiChaelinzo&theme=onedark&no-frame=true&no-bg=true&row=2&column=3&margin-w=15&margin-h=15&title_color=ff073a&text_color=ff073a&icon_color=ff073a" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy-sigma-five.vercel.app/?username=MiChaelinzo&theme=onedark&no-frame=true&no-bg=true&row=2&column=3&margin-w=15&margin-h=15&title_color=ff073a&text_color=ff073a&icon_color=ff073a" alt="GitHub Trophies"/>
 </div>
 
 ---
 
-### <p align="center">`T E C H _ S T A C K`</p>
+### <p align="center">`T E C H _ S T A C K 💻`</p>
 <p align="center">
     <!-- Languages -->
     <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
@@ -127,7 +128,7 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph/?username=MiChaelinzo&bg_color=000000&color=ff073a&line=ff073a&point=ff073a&area=true&hide_border=true&title=Contribution+Graph" alt="Contribution Graph"/>
   <br>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/wakatime?username=MiChaelinzo&theme=radical&bg_color=000000&title_color=ff073a&text_color=ff073a&hide_border=true&layout=compact&cache_seconds=7200" alt="WakaTime Stats"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/wakatime?username=MiChaelinzo&theme=radical&bg_color=000000&title_color=ff073a&text_color=ff073a&hide_border=true&layout=compact" alt="WakaTime Stats"/>
 </div>
 </details>
 
@@ -137,19 +138,19 @@
 
 ### ⏱️ WakaTime Stats
 <!-- Important: use your WakaTime username (may differ from GitHub). Stats must be public in WakaTime. -->
-![WakaTime](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/wakatime?username=MiChaelinzo&layout=compact&theme=tokyonight&cache_seconds=7200)
+![WakaTime](https://github-readme-stats-sigma-five.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&layout=compact&theme=tokyonight)
 
 <div align="left">
   <h3> 📊 More Statistics </h3>
   <p align="center">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MiChaelinzo&show_icons=true&theme=synthwave&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&title_color=ff073a&text_color=ff073a&icon_color=ff073a&bg_color=000000&hide_border=true&cache_seconds=7200"/>
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MiChaelinzo&layout=compact&langs_count=20&theme=synthwave&title_color=ff073a&text_color=ff073a&bg_color=000000&hide_border=true&cache_seconds=7200" alt="Top Languages" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MiChaelinzo&show_icons=true&theme=synthwave&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&title_color=ff073a&text_color=ff073a&icon_color=ff073a&bg_color=000000&hide_border=true"/>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MiChaelinzo&layout=compact&langs_count=20&theme=synthwave&title_color=ff073a&text_color=ff073a&bg_color=000000&hide_border=true" alt="Top Languages" />
   </p>
   <p align="center"> 
-    <a href="https://github.com/MiChaelinzo"><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/wakatime?username=MiChaelinzo&layout=compact&theme=synthwave&title_color=ff073a&text_color=ff073a&bg_color=000000&hide_border=true&cache_seconds=7200" alt="Time Stats"/></a>
+    <a href="https://github.com/MiChaelinzo"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/wakatime?username=MiChaelinzo&layout=compact&theme=synthwave&title_color=ff073a&text_color=ff073a&bg_color=000000&hide_border=true" alt="Time Stats"/></a>
   </p>
   <p align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MiChaelinzo&theme=dracula"/>
+    <img src="http://github-profile-summary-cards-sigma-five.vercel.app/api/cards/profile-details?username=MiChaelinzo&theme=dracula"/>
   </p>
 </div>
 
