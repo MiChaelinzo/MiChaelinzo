@@ -1,177 +1,181 @@
-<div align="center">
+@import 'tailwindcss';
 
-# <g-emoji class="g-emoji" alias="sparkles" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2728.png">✨</g-emoji>山乇ㄥ匚ㄖ爪乇 _ ㄒㄖ _ ㄒ卄乇 _ 匚ㄚ乃乇尺山ㄖ尺ㄥᗪ<g-emoji class="g-emoji" alias="sparkles" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2728.png">✨</g-emoji>
+@import './index.css';
+@import "tw-animate-css";
 
-[![Website](https://img.shields.io/website?style=for-the-badge&url=https%3A%2F%2Fbeacons.ai/cyberworld&label=CYBER-WORLD&color=ff073a&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmMDEwMSIgd2lkdGg9IjE4cHgiIGhlaWdodD0iMThweCI+PHBhdGggZD0iTTAgMGgyNHYyNEgweiIgZmlsbD0ibm9uZSIvPjxwYXRoIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0wIDE4Yy00LjQxIDAtOC0zLjU5LTgtOHMzLjU5LTggOC04IDggMy41OSA4IDgtMy41OSA4LTggOHptLTQgMGgxdi0ySDh2MnpNMTEgMTZoMnYtN2gtMnY3em01IDBoMXYtMmgtaDF6Ii8+PC9zdmc+)](https://beacons.ai/cyberworld)
-[![Twitter Follow](https://img.shields.io/badge/follow-%40michaelinzotech-ff073a?logo=x&style=for-the-badge&logoColor=ff073a)](https://twitter.com/intent/follow?screen_name=michaelinzotech)
+@config '../tailwind.config.js';
 
-</div>
+/* 
+  Custom variant for dark mode 
+*/
+@custom-variant dark (&:is(.dark *));
 
-<div align="center">
-  <img alt="Cyberpunk Cityscape GIF" src="https://github.com/MiChaelinzo/MiChaelinzo/blob/master/source.gif" width="100%" style="border-radius:15px;"/>
-</div>
+/*
+  Compatibility styles for Tailwind CSS v4 border colors
+*/
+@layer base {
+  *,
+  ::after,
+  ::before,
+  ::backdrop,
+  ::file-selector-button {
+    border-color: var(--color-gray-200, currentColor);
+  }
+}
 
----
+/*
+  CSS Variables (OKLCH)
+*/
+:root {
+  --radius: 0.625rem;
+  --background: oklch(1 0 0);
+  --foreground: oklch(0.145 0 0);
+  --card: oklch(1 0 0);
+  --card-foreground: oklch(0.145 0 0);
+  --popover: oklch(1 0 0);
+  --popover-foreground: oklch(0.145 0 0);
+  --primary: oklch(0.205 0 0);
+  --primary-foreground: oklch(0.985 0 0);
+  --secondary: oklch(0.97 0 0);
+  --secondary-foreground: oklch(0.205 0 0);
+  --muted: oklch(0.97 0 0);
+  --muted-foreground: oklch(0.556 0 0);
+  --accent: oklch(0.97 0 0);
+  --accent-foreground: oklch(0.205 0 0);
+  --destructive: oklch(0.577 0.245 27.325);
+  --destructive-foreground: oklch(0.985 0 0); /* Added */
+  --border: oklch(0.922 0 0);
+  --input: oklch(0.922 0 0);
+  --ring: oklch(0.708 0 0);
+  --chart-1: oklch(0.646 0.222 41.116);
+  --chart-2: oklch(0.6 0.118 184.704);
+  --chart-3: oklch(0.398 0.07 227.392);
+  --chart-4: oklch(0.828 0.189 84.429);
+  --chart-5: oklch(0.769 0.188 70.08);
+  --sidebar: oklch(0.985 0 0);
+  --sidebar-foreground: oklch(0.145 0 0);
+  --sidebar-primary: oklch(0.205 0 0);
+  --sidebar-primary-foreground: oklch(0.985 0 0);
+  --sidebar-accent: oklch(0.97 0 0);
+  --sidebar-accent-foreground: oklch(0.205 0 0);
+  --sidebar-border: oklch(0.922 0 0);
+  --sidebar-ring: oklch(0.708 0 0);
+}
 
-### <p align="center">`A B O U T _ M E 🕴🏻`</p>
+.dark {
+  --background: oklch(0.145 0 0);
+  --foreground: oklch(0.985 0 0);
+  --card: oklch(0.205 0 0);
+  --card-foreground: oklch(0.985 0 0);
+  --popover: oklch(0.205 0 0);
+  --popover-foreground: oklch(0.985 0 0);
+  --primary: oklch(0.922 0 0);
+  --primary-foreground: oklch(0.205 0 0);
+  --secondary: oklch(0.269 0 0);
+  --secondary-foreground: oklch(0.985 0 0);
+  --muted: oklch(0.269 0 0);
+  --muted-foreground: oklch(0.708 0 0);
+  --accent: oklch(0.269 0 0);
+  --accent-foreground: oklch(0.985 0 0);
+  --destructive: oklch(0.704 0.191 22.216);
+  --destructive-foreground: oklch(0.985 0 0); /* Added */
+  --border: oklch(1 0 0 / 10%);
+  --input: oklch(1 0 0 / 15%);
+  --ring: oklch(0.556 0 0);
+  --chart-1: oklch(0.488 0.243 264.376);
+  --chart-2: oklch(0.696 0.17 162.48);
+  --chart-3: oklch(0.769 0.188 70.08);
+  --chart-4: oklch(0.627 0.265 303.9);
+  --chart-5: oklch(0.645 0.246 16.439);
+  --sidebar: oklch(0.205 0 0);
+  --sidebar-foreground: oklch(0.985 0 0);
+  --sidebar-primary: oklch(0.488 0.243 264.376);
+  --sidebar-primary-foreground: oklch(0.985 0 0);
+  --sidebar-accent: oklch(0.269 0 0);
+  --sidebar-accent-foreground: oklch(0.985 0 0);
+  --sidebar-border: oklch(1 0 0 / 10%);
+  --sidebar-ring: oklch(0.556 0 0);
+}
 
-<p align="center">
-  <em>
-    Professional Corporate-IT Specialist ║ AI/AGI/ASI & Software/System Engineer ║ Offensive Cyber-Security Engineer ║ Intrapreneur ║ Penetration Testing Enthusiast ║ CyberTech Innovator ║ Ultra-Hardcore Gamer
-  </em>
-</p>
+/*
+  Tailwind v4 Theme Configuration
+*/
+@theme {
+  --radius-sm: calc(var(--radius) - 4px);
+  --radius-md: calc(var(--radius) - 2px);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) + 4px);
+  
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  
+  --color-popover: var(--popover);
+  --color-popover-foreground: var(--popover-foreground);
+  
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  
+  --color-destructive: var(--destructive);
+  --color-destructive-foreground: var(--destructive-foreground); /* Added */
+  
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+  
+  --color-chart-1: var(--chart-1);
+  --color-chart-2: var(--chart-2);
+  --color-chart-3: var(--chart-3);
+  --color-chart-4: var(--chart-4);
+  --color-chart-5: var(--chart-5);
+  
+  --color-sidebar: var(--sidebar);
+  --color-sidebar-foreground: var(--sidebar-foreground);
+  --color-sidebar-primary: var(--sidebar-primary);
+  --color-sidebar-primary-foreground: var(--sidebar-primary-foreground);
+  --color-sidebar-accent: var(--sidebar-accent);
+  --color-sidebar-accent-foreground: var(--sidebar-accent-foreground);
+  --color-sidebar-border: var(--sidebar-border);
+  --color-sidebar-ring: var(--sidebar-ring);
 
----
+  --animate-accordion-down: accordion-down 0.2s ease-out;
+  --animate-accordion-up: accordion-up 0.2s ease-out;
 
-### <p align="center">`C O N N E C T _ W I T H _ M E 🔗`</p>
-<p align="center">
-  <a href="https://beacons.ai/cyberworld" target="_blank">
-    <img src="https://img.shields.io/badge/-CyberWorld-ff073a?style=for-the-badge&logo=home-assistant&logoColor=white" alt="Website"/>
-  </a>
-  <a href="https://www.youtube.com/@michaelinzo" target="_blank">
-    <img src="https://img.shields.io/badge/-YouTube-ff073a?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-  </a>
-  <a href="https://twitter.com/michaelinzotech" target="_blank">
-    <img src="https://img.shields.io/badge/-X (Twitter)-ff073a?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
-  </a>
-  <a href="https://www.linkedin.com/in/michaelinzo" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-ff073a?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://instagram.com/michaelinzo_tech_cybernetics" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-ff073a?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-</p>
+  @keyframes accordion-down {
+    from {
+      height: 0;
+    }
+    to {
+      height: var(--radix-accordion-content-height);
+    }
+  }
 
----
+  @keyframes accordion-up {
+    from {
+      height: var(--radix-accordion-content-height);
+    }
+    to {
+      height: 0;
+    }
+  }
+}
 
-### 📊 GitHub Stats
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Michaelinzo&theme=neon-dark&hide_border=true&short_numbers=true)](https://git.io/streak-stats)
-
-![Metrics](https://metrics.lecoq.io/MiChaelinzo?template=terminal&isocalendar=1&languages=1&lines=1&stars=1&followup=1&habits=1&people=1&repositories=1&discussions=1&achievements=1&notable=1&activity=1&code=1&gists=1&stackoverflow=1&posts=1&leetcode=1&rss=1&fortune=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&lines.delay=0&stars=false&stars.limit=4&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&followup=false&followup.sections=repositories&followup.indepth=false&followup.archived=true&people=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&repositories=false&repositories.pinned=0&repositories.starred=0&repositories.random=0&repositories.order=featured%2C%20pinned%2C%20starred%2C%20random&discussions=false&discussions.categories=true&discussions.categories.limit=0&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable=false&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&notable.self=false&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&code=false&code.lines=12&code.load=400&code.days=3&code.visibility=public&gists=false&stackoverflow=false&stackoverflow.user=0&stackoverflow.sections=answers-top%2C%20questions-recent&stackoverflow.limit=2&stackoverflow.lines=4&stackoverflow.lines.snippet=2&posts=false&posts.user=.user.login&posts.descriptions=false&posts.covers=false&posts.limit=4&rss=false&rss.limit=4&leetcode=false&leetcode.user=.user.login&leetcode.sections=solved&leetcode.limit.skills=10&leetcode.limit.recent=2&fortune=false&config.timezone=Asia%2FRiyadh)
-
-### <p align="center">`G I T H U B _ S T A T S 📊`</p>
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MiChaelinzo&show_icons=true&theme=radical&title_color=ff073a&text_color=ff073a&icon_color=ff073a&bg_color=000000&hide_border=true" alt="MiChaelinzo's GitHub Stats"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MiChaelinzo&layout=compact&theme=radical&title_color=ff073a&text_color=ff073a&bg_color=000000&hide_border=true&icon_color=ff073a" alt="Top Languages"/>
-</div>
-<details> 
-  <summary><h4>LeetCode (Archived)</h4></summary>
-  <div align="center">
-    <a href="https://leetcode.com/michaelinzo" target="_blank" rel="noreferrer">
-      <img height="190" width="49%" align="center" src="https://leetcard.jacoblin.cool/michaelinzo?theme=dark&font=monospace&ext=contest&bg=000000&text=ff073a&icon=ff073a&border=ff073a"/>
-    </a>
-  </div>
-</details>
-
-### ⌚ Daily Streak
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MiChaelinzo&theme=tokyo-night)
-
-![GitHub Snake](https://github.com/MiChaelinzo/MiChaelinzo/blob/output/github-contribution-grid-snake.svg)
-
-![Metrics](https://metrics.lecoq.io/MiChaelinzo?template=classic&base=header%2Cactivity%2Ccommunity%2Crepositories&base.indepth=false&base.hireable=false&config.timezone=Asia%2FQatar)
-
-### 🧠 Top Languages
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MiChaelinzo&layout=compact&theme=tokyonight&hide=html,css)
-
-
----
-
-### <p align="center">`A W A R D S 🏆`</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MiChaelinzo&theme=onedark&no-frame=true&no-bg=true&row=2&column=3&margin-w=15&margin-h=15&title_color=ff073a&text_color=ff073a&icon_color=ff073a" alt="GitHub Trophies"/>
-</p>
-
----
-
-### <p align="center">`T E C H _ S T A C K 💻`</p>
-<p align="center">
-    <!-- Languages -->
-    <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
-    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
-    <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-    <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass"/>
-    <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-    <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
-    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-    <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
-    <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL"/>
-    <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
-    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-    <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-    <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
-    <img src="https://img.shields.io/badge/CI%2FCD-4A154B?style=for-the-badge&logo=jenkins&logoColor=white" alt="CI/CD"/>
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-    <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/>
-    <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP"/>
-    <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script"/>
-    <img src="https://img.shields.io/badge/Zsh-898D91?style=for-the-badge&logo=zsh&logoColor=white" alt="Zsh"/>
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-    <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" alt="Vim"/>
-    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-</p>
-
----
-
-<details open>
-<summary><h3><g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji> D E T A I L E D _ S T A T S</h3></summary>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph/?username=MiChaelinzo&bg_color=000000&color=ff073a&line=ff073a&point=ff073a&area=true&hide_border=true&title=Contribution+Graph" alt="Contribution Graph"/>
-  <br>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/wakatime?username=MiChaelinzo&theme=radical&bg_color=000000&title_color=ff073a&text_color=ff073a&hide_border=true&layout=compact" alt="WakaTime Stats"/>
-</div>
-</details>
-
-<div align="center">
-  <img height="20px" src="https://visitcount.itsvg.in/api?id=MiChaelinzo&label=Profile%20Views&color=ff073a&icon=5&pretty=true" />
-</div>
-
-### ⏱️ WakaTime Stats
-<!-- Important: use your WakaTime username (may differ from GitHub). Stats must be public in WakaTime. -->
-![WakaTime](https://github-readme-stats-sigma-five.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&layout=compact&theme=tokyonight)
-
-<div align="left">
-  <h3> 📊 More Statistics </h3>
-  <p align="center">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MiChaelinzo&show_icons=true&theme=synthwave&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&title_color=ff073a&text_color=ff073a&icon_color=ff073a&bg_color=000000&hide_border=true"/>
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MiChaelinzo&layout=compact&langs_count=20&theme=synthwave&title_color=ff073a&text_color=ff073a&bg_color=000000&hide_border=true" alt="Top Languages" />
-  </p>
-  <p align="center"> 
-    <a href="https://github.com/MiChaelinzo"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/wakatime?username=MiChaelinzo&layout=compact&theme=synthwave&title_color=ff073a&text_color=ff073a&bg_color=000000&hide_border=true" alt="Time Stats"/></a>
-  </p>
-  <p align="center">
-    <img src="http://github-profile-summary-cards-sigma-five.vercel.app/api/cards/profile-details?username=MiChaelinzo&theme=dracula"/>
-  </p>
-</div>
-
-<div align="right">Made 🦾 by <a href="https://github.com/MiChaelinzo">@MiChaelinzo</a>.</div>
-
-
-
-
-
-
-
-
-
-
-
-
+@layer base {
+  * {
+    @apply border-border outline-ring/50;
+  }
+  body {
+    @apply bg-background text-foreground;
+  }
+}
