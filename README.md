@@ -46,7 +46,8 @@
 
 ### 📊 GitHub Stats
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Michaelinzo&theme=neon-blurange&hide_border=true&short_numbers=true" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Michaelinzo&theme=neon-dark&hide_border=true&short_numbers=true)](https://git.io/streak-stats)
+
 
 ### <p align="center">`G I T H U B _ S T A T S 📊`</p>
 <div align="center">
@@ -161,6 +162,7 @@
 </div>
 
 <div align="right">Made 🦾 by <a href="https://github.com/MiChaelinzo">@MiChaelinzo</a>.</div>
+
 
 
 
