@@ -46,7 +46,7 @@
 
 ### 📊 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=MiChaelinzo&theme=dark&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Michaelinzo&theme=blood-dark&hide_border=true&short_numbers=true)](https://git.io/streak-stats)
 
 ### <p align="center">`G I T H U B _ S T A T S 📊`</p>
 <div align="center">
@@ -161,6 +161,7 @@
 </div>
 
 <div align="right">Made 🦾 by <a href="https://github.com/MiChaelinzo">@MiChaelinzo</a>.</div>
+
 
 
 
