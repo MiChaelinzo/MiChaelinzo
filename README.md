@@ -46,11 +46,21 @@
 
 ### <p align="center">`G I T H U B _ S T A T S 📊`</p>
 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=michaelinzo&show_icons=true&theme=gruvbox)
+<!-- Option A: All badges inline and centered -->
+<!--
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=michaelinzo&show_icons=true&theme=gruvbox" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=michaelinzo&theme=gruvbox" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=michaelinzo&layout=compact&theme=gruvbox" alt="Top Languages" />
+</p>
+--!>
 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=michaelinzo&theme=gruvbox)
-
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=michaelinzo&layout=compact&theme=gruvbox)
+<!-- Option B: Stacked vertically and centered (use this if badges look too small inline) -->
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=michaelinzo&show_icons=true&theme=gruvbox" alt="GitHub Stats" /><br/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=michaelinzo&theme=gruvbox" alt="GitHub Streak" /><br/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=michaelinzo&layout=compact&theme=gruvbox" alt="Top Languages" />
+</p>
 
 <details> 
   <summary><h4>LeetCode (Archived)</h4></summary>
@@ -70,8 +80,9 @@
 
 ### 🧠 Top Languages
 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=michaelinzo&layout=compact&theme=gruvbox)
-
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=michaelinzo&layout=compact&theme=gruvbox" alt="GitHub Top Languages" />
+</p>
 
 ---
 
@@ -158,6 +169,7 @@
 </div>
 
 <div align="right">Made 🦾 by <a href="https://github.com/MiChaelinzo">@MiChaelinzo</a>.</div>
+
 
 
 
