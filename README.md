@@ -47,20 +47,20 @@
 ### <p align="center">`G I T H U B _ S T A T S 📊`</p>
 
 <!-- Option A: All badges inline and centered -->
-<!--
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=michaelinzo&show_icons=true&theme=gruvbox" alt="GitHub Stats" />
   <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=michaelinzo&theme=gruvbox" alt="GitHub Streak" />
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=michaelinzo&layout=compact&theme=gruvbox" alt="Top Languages" />
 </p>
---!>
 
 <!-- Option B: Stacked vertically and centered (use this if badges look too small inline) -->
+<!--
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=michaelinzo&show_icons=true&theme=gruvbox" alt="GitHub Stats" /><br/>
   <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=michaelinzo&theme=gruvbox" alt="GitHub Streak" /><br/>
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=michaelinzo&layout=compact&theme=gruvbox" alt="Top Languages" />
-</p>
+</p> 
+-->
 
 <details> 
   <summary><h4>LeetCode (Archived)</h4></summary>
@@ -74,10 +74,6 @@
 ### ⌚ Daily Streak
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MiChaelinzo&theme=tokyo-night)
 
-![GitHub Snake](https://github.com/MiChaelinzo/MiChaelinzo/blob/output/github-contribution-grid-snake.svg)
-
-![Metrics](https://metrics.lecoq.io/MiChaelinzo?template=classic&base=header%2Cactivity%2Ccommunity%2Crepositories&base.indepth=false&base.hireable=false&config.timezone=Asia%2FQatar)
-
 ### 🧠 Top Languages
 
 <p align="center">
@@ -88,7 +84,7 @@
 
 ### <p align="center">`A W A R D S 🏆`</p>
 <p align="center">
-  <img src="https://github-profile-trophy-sigma-five.vercel.app/?username=MiChaelinzo&theme=onedark&no-frame=true&no-bg=true&row=2&column=3&margin-w=15&margin-h=15&title_color=ff073a&text_color=ff073a&icon_color=ff073a" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=MiChaelinzo&theme=onedark&no-frame=true&no-bg=true&row=2&column=3&margin-w=15&margin-h=15&title_color=ff073a&text_color=ff073a&icon_color=ff073a" alt="GitHub Trophies"/>
 </p>
 
 ---
@@ -152,6 +148,7 @@
 
 ### ⏱️ WakaTime Stats
 <!-- Important: use your WakaTime username (may differ from GitHub). Stats must be public in WakaTime. -->
+<!--
 ![WakaTime](https://github-readme-stats-sigma-five.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&layout=compact&theme=tokyonight)
 
 <div align="left">
@@ -167,8 +164,9 @@
     <img src="http://github-profile-summary-cards-sigma-five.vercel.app/api/cards/profile-details?username=MiChaelinzo&theme=dracula"/>
   </p>
 </div>
-
+-->
 <div align="right">Made 🦾 by <a href="https://github.com/MiChaelinzo">@MiChaelinzo</a>.</div>
+
 
 
 
