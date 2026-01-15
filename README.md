@@ -141,10 +141,10 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph/?username=MiChaelinzo&bg_color=000000&color=ff073a&line=ff073a&point=ff073a&area=true&hide_border=true&title=Contribution+Graph" alt="Contribution Graph"/>
   <br>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/wakatime?username=MiChaelinzo&theme=radical&bg_color=000000&title_color=ff073a&text_color=ff073a&hide_border=true&layout=compact" alt="WakaTime Stats"/>
+<!--  <img src="https://github-readme-stats-sigma-five.vercel.app/api/wakatime?username=MiChaelinzo&theme=radical&bg_color=000000&title_color=ff073a&text_color=ff073a&hide_border=true&layout=compact" alt="WakaTime Stats"/>
 </div>
 </details>
-
+-->
 
 ### ⏱️ WakaTime Stats
 <!-- Important: use your WakaTime username (may differ from GitHub). Stats must be public in WakaTime. -->
@@ -166,6 +166,7 @@
 </div>
 -->
 <div align="right">Made 🦾 by <a href="https://github.com/MiChaelinzo">@MiChaelinzo</a>.</div>
+
 
 
 
