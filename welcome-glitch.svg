@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="140" viewBox="0 0 1000 140">
+  <defs>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="6" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="text-glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <rect x="10" y="15" width="980" height="110" rx="14" fill="#000000" fill-opacity="0.65" stroke="#ff073a" stroke-width="2" filter="url(#glow)"/>
+  <rect x="30" y="35" width="940" height="6" fill="#ff073a" opacity="0.18">
+    <animate attributeName="y" values="35;90;45;80;35" dur="2.6s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="30" y="90" width="940" height="4" fill="#00f0ff" opacity="0.15">
+    <animate attributeName="y" values="90;40;85;50;90" dur="2.1s" repeatCount="indefinite"/>
+  </rect>
+  <g font-family="monospace" font-size="28" letter-spacing="4" text-anchor="middle" dominant-baseline="middle">
+    <text x="50%" y="50%" fill="#00f0ff" opacity="0.6">✨山乇ㄥ匚ㄖ爪乇 _ ㄒㄖ _ ㄒ卄乇 _ 匚ㄚ乃乇尺山ㄖ尺ㄥᗪ✨
+      <animateTransform attributeName="transform" type="translate" values="0 0;-3 -1;2 1;-1 2;0 0" dur="1.8s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.6;0.1;0.7;0.3;0.6" dur="1.4s" repeatCount="indefinite"/>
+    </text>
+    <text x="50%" y="50%" fill="#ff073a" opacity="0.55">✨山乇ㄥ匚ㄖ爪乇 _ ㄒㄖ _ ㄒ卄乇 _ 匚ㄚ乃乇尺山ㄖ尺ㄥᗪ✨
+      <animateTransform attributeName="transform" type="translate" values="0 0;2 -2;-2 1;1 -1;0 0" dur="2.2s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.55;0.2;0.75;0.25;0.55" dur="1.7s" repeatCount="indefinite"/>
+    </text>
+    <text x="50%" y="50%" fill="#ffffff" filter="url(#text-glow)">✨山乇ㄥ匚ㄖ爪乇 _ ㄒㄖ _ ㄒ卄乇 _ 匚ㄚ乃乇尺山ㄖ尺ㄥᗪ✨
+      <animateTransform attributeName="transform" type="translate" values="0 0;1 0;-1 1;0 -1;0 0" dur="2.8s" repeatCount="indefinite"/>
+    </text>
+  </g>
+</svg>

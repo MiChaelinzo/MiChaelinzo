@@ -1,9 +1,7 @@
 <div align="center">
 
 <h1>
-  <span style="color:#ffffff; text-shadow:0 0 5px #ff073a, 0 0 10px #ff073a, 0 0 20px #ff073a, 0 0 40px #ff073a; border:2px solid #ff073a; box-shadow:0 0 12px #ff073a, inset 0 0 12px #ff073a; padding:0.25em 0.6em; border-radius:14px; background:rgba(0,0,0,0.65); letter-spacing:0.12em; display:inline-block;">
-    ✨山乇ㄥ匚ㄖ爪乇 _ ㄒㄖ _ ㄒ卄乇 _ 匚ㄚ乃乇尺山ㄖ尺ㄥᗪ✨
-  </span>
+  <img src="welcome-glitch.svg" alt="✨山乇ㄥ匚ㄖ爪乇 _ ㄒㄖ _ ㄒ卄乇 _ 匚ㄚ乃乇尺山ㄖ尺ㄥᗪ✨" width="100%" />
 </h1>
 
 [![Website](https://img.shields.io/website?style=for-the-badge&url=https%3A%2F%2Fbeacons.ai/cyberworld&label=CYBER-WORLD&color=ff073a&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmMDEwMSIgd2lkdGg9IjE4cHgiIGhlaWdodD0iMThweCI+PHBhdGggZD0iTTAgMGgyNHYyNEgweiIgZmlsbD0ibm9uZSIvPjxwYXRoIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0wIDE4Yy00LjQxIDAtOC0zLjU5LTgtOHMzLjU5LTggOC04IDggMy41OSA4IDgtMy41OSA4LTggOHptLTQgMGgxdi0ySDh2MnpNMTEgMTZoMnYtN2gtMnY3em01IDBoMXYtMmgtaDF6Ii8+PC9zdmc+)](https://beacons.ai/cyberworld)
