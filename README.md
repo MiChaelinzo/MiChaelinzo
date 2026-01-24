@@ -145,6 +145,7 @@
 </div>
 </details>
 -->
+  
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/michaelinzo/michaelinzo/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/michaelinzo/michaelinzo/output/github-contribution-grid-snake.svg">
@@ -179,6 +180,7 @@
 </div>
 -->
 <div align="right">Made 🦾 by <a href="https://github.com/MiChaelinzo">@MiChaelinzo</a>.</div>
+
 
 
 
