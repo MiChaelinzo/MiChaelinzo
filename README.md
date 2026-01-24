@@ -145,7 +145,20 @@
 </div>
 </details>
 -->
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=michaelinzo&show_icons=true&locale=en&layout=compact" alt="michaelinzo" /></p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/michaelinzo/michaelinzo/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/michaelinzo/michaelinzo/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/michaelinzo/michaelinzo/output/github-contribution-grid-snake.svg">
+</picture>
 
+<br clear="both">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/michaelinzo/michaelinzo/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/michaelinzo/michaelinzo/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RikuSato0/michaelinzo/output/pacman-contribution-graph.svg">
+</picture>
 ### ⏱️ WakaTime Stats
 <!-- Important: use your WakaTime username (may differ from GitHub). Stats must be public in WakaTime. -->
 <!--
@@ -166,6 +179,7 @@
 </div>
 -->
 <div align="right">Made 🦾 by <a href="https://github.com/MiChaelinzo">@MiChaelinzo</a>.</div>
+
 
 
 
