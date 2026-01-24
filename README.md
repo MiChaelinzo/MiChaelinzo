@@ -1,6 +1,6 @@
 <div align="center">
 
-# <g-emoji class="g-emoji" alias="sparkles" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2728.png">✨</g-emoji>山乇ㄥ匚ㄖ爪乇 _ ㄒㄖ _ ㄒ卄乇 _ 匚ㄚ乃乇尺山ㄖ尺ㄥᗪ<g-emoji class="g-emoji" alias="sparkles" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2728.png">✨</g-emoji>
+# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=45&duration=3000&pause=1000&color=FF073A&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=100&lines=%E2%9C%A8%E5%B1%B1%E4%B9%87%E3%84%A5%E5%8C%9A%E3%84%96%E7%88%AA%E4%B9%87+_+%E3%84%92%E3%84%96+_+%E3%84%92%E5%8D%84%E4%B9%87+_+%E5%8C%9A%E3%84%9A%E4%B9%83%E4%B9%87%E5%B0%BA%E5%B1%B1%E3%84%96%E5%B0%BA%E3%84%A5%E1%97%AA%E2%9C%A8" alt="Welcome to the CyberWorld" />
 
 [![Website](https://img.shields.io/website?style=for-the-badge&url=https%3A%2F%2Fbeacons.ai/cyberworld&label=CYBER-WORLD&color=ff073a&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmMDEwMSIgd2lkdGg9IjE4cHgiIGhlaWdodD0iMThweCI+PHBhdGggZD0iTTAgMGgyNHYyNEgweiIgZmlsbD0ibm9uZSIvPjxwYXRoIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0wIDE4Yy00LjQxIDAtOC0zLjU5LTgtOHMzLjU5LTggOC04IDggMy41OSA4IDgtMy41OSA4LTggOHptLTQgMGgxdi0ySDh2MnpNMTEgMTZoMnYtN2gtMnY3em01IDBoMXYtMmgtaDF6Ii8+PC9zdmc+)](https://beacons.ai/cyberworld)
 [![Twitter Follow](https://img.shields.io/badge/follow-%40michaelinzotech-ff073a?logo=x&style=for-the-badge&logoColor=ff073a)](https://twitter.com/intent/follow?screen_name=michaelinzotech)
@@ -147,17 +147,17 @@
 -->
   
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/michaelinzo/michaelinzo/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/michaelinzo/michaelinzo/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/michaelinzo/michaelinzo/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MiChaelinzo/MiChaelinzo/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MiChaelinzo/MiChaelinzo/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MiChaelinzo/MiChaelinzo/output/github-contribution-grid-snake.svg">
 </picture>
 
 <br clear="both">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/michaelinzo/michaelinzo/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/michaelinzo/michaelinzo/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/michaelinzo/michaelinzo/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MiChaelinzo/MiChaelinzo/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MiChaelinzo/MiChaelinzo/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MiChaelinzo/MiChaelinzo/output/pacman-contribution-graph.svg">
 </picture>
 
 ### ⏱️ WakaTime Stats
