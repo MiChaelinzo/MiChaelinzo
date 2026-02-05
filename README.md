@@ -84,10 +84,21 @@
 
 ---
 
-### <p align="center">`A W A R D S 🏆`</p>
+## 🏆 A W A R D S
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MiChaelinzo&theme=onedark&no-frame=true&no-bg=true&row=2&column=3&margin-w=15&margin-h=15&title_color=ff073a&text_color=ff073a&icon_color=ff073a" alt="GitHub Trophies"/>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy-fork-two.vercel.app/?username=MiChaelinzo&theme=onedark&no-frame=true&no-bg=true&row=2&column=3&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+  </a>
 </p>
+
+> **Note:** If trophies are not displaying, the main endpoint may be down due to high traffic. You can try these alternative mirror endpoints:
+> - `https://github-profile-trophy-fork-two.vercel.app/` (current)
+> - `https://github-profile-trophy-liard-delta.vercel.app/`
+> - `https://github-profile-trophy-winning.vercel.app/`
+> - `https://github-profile-trophy-kannan.vercel.app/`
+> 
+> See the [github-profile-trophy repository](https://github.com/ryo-ma/github-profile-trophy) for more alternatives and updates.
 
 ---
 
@@ -182,6 +193,7 @@
 </div>
 -->
 <div align="right">Made 🦾 by <a href="https://github.com/MiChaelinzo">@MiChaelinzo</a>.</div>
+
 
 
 
