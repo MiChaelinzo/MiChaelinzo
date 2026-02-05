@@ -10,9 +10,11 @@ on:
 
 jobs:
   build:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
 
       - uses: Platane/snk/svg-only@v3
         id: snake-gif
@@ -21,6 +23,20 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Checkout output branch to preserve existing files
+        uses: actions/checkout@v4
+        with:
+          ref: output
+          path: output-branch
+        continue-on-error: true
+
+      - name: Preserve existing pacman SVG files
+        run: |
+          if [ -d "output-branch" ]; then
+            # Copy pacman SVG files if they exist
+            cp output-branch/pacman-contribution-graph*.svg dist/ 2>/dev/null || true
+          fi
 
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
