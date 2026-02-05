@@ -174,24 +174,25 @@
 </picture>
 
 ### ⏱️ WakaTime Stats
-<!-- Important: use your WakaTime username (may differ from GitHub). Stats must be public in WakaTime. -->
-<!--
-![WakaTime](https://github-readme-stats-sigma-five.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&layout=compact&theme=tokyonight)
 
-<div align="left">
-  <h3> 📊 More Statistics </h3>
-  <p align="center">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MiChaelinzo&show_icons=true&theme=synthwave&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&title_color=ff073a&text_color=ff073a&icon_color=ff073a&bg_color=000000&hide_border=true"/>
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MiChaelinzo&layout=compact&langs_count=20&theme=synthwave&title_color=ff073a&text_color=ff073a&bg_color=000000&hide_border=true" alt="Top Languages" />
-  </p>
-  <p align="center"> 
-    <a href="https://github.com/MiChaelinzo"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/wakatime?username=MiChaelinzo&layout=compact&theme=synthwave&title_color=ff073a&text_color=ff073a&bg_color=000000&hide_border=true" alt="Time Stats"/></a>
-  </p>
-  <p align="center">
-    <img src="http://github-profile-summary-cards-sigma-five.vercel.app/api/cards/profile-details?username=MiChaelinzo&theme=dracula"/>
-  </p>
-</div>
--->
+<p align="center">
+  <a href="https://wakatime.com/@MiChaelinzo">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MiChaelinzo&layout=compact&theme=gruvbox&hide_border=true&bg_color=000000&title_color=ff073a&text_color=ff073a" alt="WakaTime Stats"/>
+  </a>
+</p>
+
+> **Note:** WakaTime stats require an active [WakaTime](https://wakatime.com) account with the same username. If stats are not displaying, ensure your WakaTime profile is public and you have coding activity tracked by WakaTime.
+
+<details>
+<summary><h4>📊 More Statistics</h4></summary>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MiChaelinzo&show_icons=true&theme=synthwave&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&title_color=ff073a&text_color=ff073a&icon_color=ff073a&bg_color=000000&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiChaelinzo&layout=compact&langs_count=20&theme=synthwave&title_color=ff073a&text_color=ff073a&bg_color=000000&hide_border=true" alt="Top Languages"/>
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MiChaelinzo&theme=dracula"/>
+</p>
+</details>
 <div align="right">Made 🦾 by <a href="https://github.com/MiChaelinzo">@MiChaelinzo</a>.</div>
 
 
