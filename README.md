@@ -88,15 +88,21 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy-fork-two.vercel.app/?username=MiChaelinzo&theme=onedark&no-frame=true&no-bg=true&row=2&column=3&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=MiChaelinzo&theme=onedark&no-frame=true&no-bg=true&row=2&column=3&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
   </a>
 </p>
 
-> **Note:** If trophies are not displaying, the main endpoint may be down due to high traffic. You can try these alternative mirror endpoints:
-> - `https://github-profile-trophy-fork-two.vercel.app/` (current)
+> **Note:** If trophies are not displaying, the main endpoint may be down due to high traffic. You can try these alternative load-balancing endpoints:
+> - `https://github-profile-trophy.vercel.app/` (official)
+> - `https://github-profile-trophy-tawny.vercel.app/`
 > - `https://github-profile-trophy-liard-delta.vercel.app/`
 > - `https://github-profile-trophy-winning.vercel.app/`
 > - `https://github-profile-trophy-kannan.vercel.app/`
+> - `https://gh-trophy.cdnsoft.net/`
+> - `https://trophy.ryglcloud.net/`
+> - `https://github-profile-trophy-orcin-eta.vercel.app/`
+> - `https://github-profile-repo.vercel.app/`
+> - `https://trophygh.kolioaris.xyz/`
 > 
 > See the [github-profile-trophy repository](https://github.com/ryo-ma/github-profile-trophy) for more alternatives and updates.
 
