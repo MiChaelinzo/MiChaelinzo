@@ -87,9 +87,7 @@
 ## 🏆 A W A R D S
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src=["https://github-profile-trophy.vercel.app/?username=MiChaelinzo&theme=onedark&no-frame=true&no-bg=true&row=2&column=3&margin-w=15&margin-h=15" alt="GitHub Trophies](https://trophy.ryglcloud.net/?username=Michaelinzo&theme=dracula)"/>
-  </a>
+  <img src="https://trophy.ryglcloud.net/?username=Michaelinzo&theme=dracula" alt="trophy" />
 </p>
 
 > **Note:** If trophies are not displaying, the main endpoint may be down due to high traffic. You can try these alternative load-balancing endpoints:
@@ -200,6 +198,7 @@
 </p>
 </details>
 <div align="right">Made 🦾 by <a href="https://github.com/MiChaelinzo">@MiChaelinzo</a>.</div>
+
 
 
 
