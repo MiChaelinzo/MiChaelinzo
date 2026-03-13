@@ -88,7 +88,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=MiChaelinzo&theme=onedark&no-frame=true&no-bg=true&row=2&column=3&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+    <img src=["https://github-profile-trophy.vercel.app/?username=MiChaelinzo&theme=onedark&no-frame=true&no-bg=true&row=2&column=3&margin-w=15&margin-h=15" alt="GitHub Trophies](https://trophy.ryglcloud.net/?username=Michaelinzo&theme=dracula)"/>
   </a>
 </p>
 
@@ -200,6 +200,7 @@
 </p>
 </details>
 <div align="right">Made 🦾 by <a href="https://github.com/MiChaelinzo">@MiChaelinzo</a>.</div>
+
 
 
 
