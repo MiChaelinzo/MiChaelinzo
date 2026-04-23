@@ -19,7 +19,7 @@
 
 <p align="center">
   <em>
-    Professional Corporate-IT Specialist ║ AI/AGI/ASI & Software/System Engineer ║ Offensive Cyber-Security Engineer ║ Intrapreneur ║ Penetration Testing Enthusiast ║ CyberTech Innovator ║ Ultra-Hardcore Gamer
+    Creative Technologist | Full‑Stack Developer | Senior Research Analyst | Professional Corporate-IT Specialist ║ AI/AGI/ASI & Software/System Engineer ║ Offensive Cyber-Security Engineer ║ Intrapreneur ║ Penetration Testing Enthusiast ║ CyberTech Innovator ║ Ultra-Hardcore Gamer
   </em>
 </p>
 
