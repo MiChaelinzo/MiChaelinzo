@@ -4,8 +4,7 @@
   <img src="welcome-glitch.svg" alt="✨山乇ㄥ匚ㄖ爪乇 _ ㄒㄖ _ ㄒ卄乇 _ 匚ㄚ乃乇尺山ㄖ尺ㄥᗪ✨" width="100%" />
 </h1>
 
-[![Website](https://img.shields.io/website?style=for-the-badge&url=https%3A%2F%2Fbeacons.ai/cyberworld&label=CYBER-WORLD&color=ff073a&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5org/w3c.org/2000/svg" viewBox="0 0 100 100"><circle cx="50" cy="50" r="50" fill="ff073a"/></svg>&logoColor=white" alt="Website"/>
-  </a>
+[![Website](https://img.shields.io/website?style=for-the-badge&url=https%3A%2F%2Fbeacons.ai/cyberworld&label=CYBER-WORLD&color=ff073a&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmMDEwMSIgd2lkdGg9IjE4cHgiIGhlaWdodD0iMThweCI+PHBhdGggZD0iTTAgMGgyNHYyNEgweiIgZmlsbD0ibm9uZSIvPjxwYXRoIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0wIDE4Yy00LjQxIDAtOC0zLjU5LTgtOHMzLjU5LTggOC04IDggMy41OSA4IDgtMy41OSA4LTggOHptLTQgMGgxdi0ySDh2MnpNMTEgMTZoMnYtN2gtMnY3em01IDBoMXYtMmgtaDF6Ii8+PC9zdmc+)](https://beacons.ai/cyberworld)
 [![Twitter Follow](https://img.shields.io/badge/follow-%40michaelinzotech-ff073a?logo=x&style=for-the-badge&logoColor=ff073a)](https://twitter.com/intent/follow?screen_name=michaelinzotech)
 
 </div>
@@ -20,7 +19,7 @@
 
 <p align="center">
   <em>
-    Creative Technologist | Full‑Stack Developer | Senior Research Analyst | Professional Corporate-IT Specialist ║ AI/AGI/ASI & Software/System Engineer ║ Offensive Cyber-Security Engineer ║ Ethical Hacker | Cybersecurity & InfoSec Specialist | DevSecOps Enthusiast
+    Creative Technologist | Full‑Stack Developer | Senior Research Analyst | Professional Corporate-IT Specialist ║ AI/AGI/ASI & Software/System Engineer ║ Offensive Cyber-Security Engineer ║ Intrapreneur ║ Penetration Testing Enthusiast ║ CyberTech Innovator ║ Ultra-Hardcore Gamer
   </em>
 </p>
 
@@ -159,9 +158,10 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph/?username=MiChaelinzo&bg_color=000000&color=ff073a&line=ff073a&point=ff073a&area=true&hide_border=true&title=Contribution+Graph" alt="Contribution Graph"/>
   <br>
-<!--  <img src="https://github-readme-stats-sigma-five.vercel.app/api/wakatime?username=MiChaelinzo&theme=radical&bg_color=000000&title_color=ff073a&text_color=ff073a&hide_border=true&layout=compact" alt="WakaTime Stats" /> -->
+<!--  <img src="https://github-readme-stats-sigma-five.vercel.app/api/wakatime?username=MiChaelinzo&theme=radical&bg_color=000000&title_color=ff073a&text_color=ff073a&hide_border=true&layout=compact" alt="WakaTime Stats"/>
 </div>
 </details>
+-->
   
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MiChaelinzo/MiChaelinzo/output/github-contribution-grid-snake-dark.svg">
@@ -177,33 +177,47 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MiChaelinzo/MiChaelinzo/output/pacman-contribution-graph.svg">
 </picture>
 
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MiChaelinzo/MiChaelinzo/output/space-invaders-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MiChaelinzo/MiChaelinzo/output/space-invaders-contribution-graph.svg">
-  <img alt="space invaders contribution graph" src="https://raw.githubusercontent.com/MiChaelinzo/MiChaelinzo/output/space-invaders-contribution-graph.svg">
-</picture>
-
 ### ⏱️ WakaTime Stats
 
 <p align="center">
   <a href="https://wakatime.com/@MiChaelinzo">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MiChaelinzo&layout=compact&theme=gruvbox&hide_border=true&bg_color=000000&title_color=ff073a&text_color=ff073a" alt="WakaTime Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MiChaelinzo&layout=compact&theme=gruvbox&hide_border=true&bg_color=000000&title_color=ff073a&text_color=ff073a" alt="WakaTime Stats"/>
   </a>
 </p>
 
-> **Note:** WakaTime stats require an active [WakaTime](https://wakatime.com) account with the same username. If stats are not displaying, ensure your WakaTime profile is public and you have coding activity tracked.
+> **Note:** WakaTime stats require an active [WakaTime](https://wakatime.com) account with the same username. If stats are not displaying, ensure your WakaTime profile is public and you have coding activity tracked by WakaTime.
 
 <details>
 <summary><h4>📊 More Statistics</h4></summary>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MiChaelinzo&show_icons=true&theme=synthwave&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="More GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiChaelinzo&layout=compact&langs_count=20&theme=synthwave&title_color=ff073a&text_color=ff073a&bg_color=000000&hide_border=true" alt="Top Languages Extended" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MiChaelinzo&show_icons=true&theme=synthwave&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&title_color=ff073a&text_color=ff073a&icon_color=ff073a&bg_color=000000&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiChaelinzo&layout=compact&langs_count=20&theme=synthwave&title_color=ff073a&text_color=ff073a&bg_color=000000&hide_border=true" alt="Top Languages"/>
 </p>
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MiChaelinzo&theme=dracula"/>
 </p>
 </details>
-
 <div align="right">Made 🦾 by <a href="https://github.com/MiChaelinzo">@MiChaelinzo</a>.</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
