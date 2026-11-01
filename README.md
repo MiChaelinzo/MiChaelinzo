@@ -90,20 +90,6 @@
   <img src="https://trophy.ryglcloud.net/?username=Michaelinzo&theme=dracula" alt="trophy" />
 </p>
 
-> **Note:** If trophies are not displaying, the main endpoint may be down due to high traffic. You can try these alternative load-balancing endpoints:
-> - `https://github-profile-trophy.vercel.app/` (official)
-> - `https://github-profile-trophy-tawny.vercel.app/`
-> - `https://github-profile-trophy-liard-delta.vercel.app/`
-> - `https://github-profile-trophy-winning.vercel.app/`
-> - `https://github-profile-trophy-kannan.vercel.app/`
-> - `https://gh-trophy.cdnsoft.net/`
-> - `https://trophy.ryglcloud.net/`
-> - `https://github-profile-trophy-orcin-eta.vercel.app/`
-> - `https://github-profile-repo.vercel.app/`
-> - `https://trophygh.kolioaris.xyz/`
-> 
-> See the [github-profile-trophy repository](https://github.com/ryo-ma/github-profile-trophy) for more alternatives and updates.
-
 ---
 
 ### <p align="center">`T E C H _ S T A C K 💻`</p>
